@@ -1,5 +1,6 @@
 from collections import defaultdict
 import re
+import sys
 
 # convert word from latin to runes
 def latin2runes(word):
@@ -137,6 +138,16 @@ def lookup(in_text, dictionary):
 	return " ".join(word for word in out_text)
 
 
-in_text = input("Input English: ")
-print(lookup(in_text.lower().strip(), dictionary))
-print("END")
+if len(sys.argv) > 1:
+	output_runes = []
+	filename = sys.argv[1]
+	with open(filename, "r") as f:
+		for line in f:
+			output_runes.append(lookup(line.lower().strip(), dictionary))
+	with open(f"{filename[:-4]}_converted.txt", "w") as f:
+		f.write("\n".join(output_runes))
+	print(f"Printed output to {filename[:-4]}_converted.txt")
+else:
+	in_text = input("Input English: ")
+	print(lookup(in_text.lower().strip(), dictionary))
+
