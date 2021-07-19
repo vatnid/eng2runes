@@ -3,7 +3,7 @@ import re
 
 # convert word from latin to runes
 def latin2runes(word):
-	l2r = {"a": "ᚫ", "å": "ᚪ", "b": "ᛒ", "c": "ᚳ", "d": "ᛞ", "ð": "ᚧ", "e": "ᛖ", "f": "ᚠ", "g": "ᚸ", "h": "ᚻ", "i": "ᛁ", "j": "ᚷ", "k": "ᛣ", "l": "ᛚ", "m": "ᛗ", "n": "ᚾ", "ŋ": "ᛝ", "o": "ᚩ", "p": "ᛈ", "q": "ᚢ", "r": "ᚱ", "s": "ᛋ", "t": "ᛏ", "u": "ᛇ", "v": "ᚡ", "w": "ᚹ", "ʷ": "ᚹ", "x": "ᛋᚳ", "y": "ᛄ", "ʸ": "ᛄ", "z": "ᛉ", "þ": "ᚦ", "́": "̇", "̇": "§"}
+	l2r = {"a": "ᚫ", "å": "ᚪ", "b": "ᛒ", "c": "ᚳ", "d": "ᛞ", "ð": "ᚧ", "e": "ᛖ", "f": "ᚠ", "g": "ᚸ", "h": "ᚻ", "i": "ᛁ", "j": "ᚷ", "k": "ᛣ", "l": "ᛚ", "m": "ᛗ", "n": "ᚾ", "ŋ": "ᛝ", "o": "ᚩ", "p": "ᛈ", "q": "ᚢ", "r": "ᚱ", "s": "ᛋ", "t": "ᛏ", "u": "ᛇ", "v": "ᚡ", "w": "ᚹ", "ʷ": "ᚹ", "x": "ᛋᚳ", "y": "ᛄ", "ʸ": "ᛄ", "z": "ᛉ", "þ": "ᚦ", "́": "̇", "̇": "§", "'": ""}
 
 	runes = ""
 	for c in word:
@@ -30,7 +30,7 @@ def lookup(in_text, dictionary):
 	nd_suffixes = ["lessnesses", "lessness", "lessly", "less", "nesses", "ness", "ly", "es", "'s", "s"] # non-doubling
 
 	prefix_pron = {"under": "ᛇᚾᛞᛖᚱ", "over": "ᚩ̇ᚢᛖᚱ", "non-": "ᚾᚩᚾ", "non": "ᚾᚩᚾ", "un": "ᛇᚾ"}
-	suffix_pron = {"lessnesses": "ᛚᛖᛋᚾᛖᛋᛖᛉ", "lessness": "ᛚᛖᛋᚾᛖᛋ", "lessly": "ᛚᛖᛋᛚᛖ̇", "less": "ᛚᛖᛋ", "nesses": "ᚾᛖᛋᛖᛉ", "ness": "ᚾᛖᛋ", "abilities": "ᚫᛒᛁᛚᛁᛏᛖ̇ᛉ", "ability": "ᚫᛒᛁᛚᛁᛏᛖ̇", "able": "ᚫᛒᛖᛚ", "ingly": "ᛁᛝᛚᛖ̇", "ings": "ᛁᛝᛉ", "ing": "ᛁᛝ", "ers": "ᛖᚱᛉ", "er": "ᛖᚱ", "est": "ᛖᛋᛏ", "ly": "ᛚᛖ̇", "es": "ᛖᛉ"}
+	suffix_pron = {"lessnesses": "ᛚᛖᛋᚾᛖᛋᛖᛉ", "lessness": "ᛚᛖᛋᚾᛖᛋ", "lessly": "ᛚᛖᛋᛚᛖ̇", "less": "ᛚᛖᛋ", "nesses": "ᚾᛖᛋᛖᛉ", "ness": "ᚾᛖᛋ", "abilities": "ᚫᛒᛁᛚᛁᛏᛖ̇ᛉ", "ability": "ᚫᛒᛁᛚᛁᛏᛖ̇", "able": "ᚫᛒᛖᛚ", "ingly": "ᛁᛝᛚᛖ̇", "ings": "ᛁᛝᛉ", "ing": "ᛁᛝ", "ers": "ᛖᚱᛉ", "er": "ᛖᚱ", "est": "ᛖᛋᛏ", "es": "ᛖᛉ"}
 
 	suffixes = d_suffixes + nd_suffixes
 
@@ -83,8 +83,12 @@ def lookup(in_text, dictionary):
 							stem = stem + "e"
 						elif (stem.endswith("ck") or stem[-1] == stem[-2]) and stem[:-1] in dictionary:
 							stem = stem[:-1]
+						# e.g. lie --> lying
+						if s in ["ingly", "ings", "ing"]:
+							if stem.endswith("y") and stem[:-1]+"ie" in dictionary:
+								stem = stem[:-1]+"ie"
 						# -i --> -y
-						if s in ["ers", "er", "est", "edly", "eds", "ed"]:
+						elif s in ["ers", "er", "est", "edly", "eds", "ed"]:
 							if stem.endswith("i") and stem[:-1]+"y" in dictionary:
 								stem = stem[:-1]+"y"
 
@@ -98,29 +102,29 @@ def lookup(in_text, dictionary):
 
 				if suffix in suffix_pron:
 					suffix = suffix_pron[suffix]
+				# phonological rules for -ed and -s
 				else:
 					if suffix in ["edly", "eds", "ed"]:
-						alv_stop = "ᛞᛏ"
-						voiceless = "ᚳᚠᚻᛣᛈᛋᚦ"
-						if dictionary[stem][0][-1] in alv_stop:
+						if dictionary[stem][0][-1] in "ᛞᛏ":
 							suffix = "ᛁᛞ"
-						elif dictionary[stem][0][-1] in voiceless:
+						elif dictionary[stem][0][-1] in "ᚳᚠᚻᛣᛈᛋᚦ":
 							suffix = "ᛏ"
 						else:
 							suffix = "ᛞ"
 					elif suffix in ["'s", "s"]:
-						sibilant = "ᚳᚷᛋᛉ"
-						s_voiceless = "ᚠᚻᛣᛈᛏᚦ"
-						if dictionary[stem][0][-1] in sibilant:
+						if dictionary[stem][0][-1] in "ᚳᚷᛋᛉ":
 							suffix = "ᛁᛉ"
-						elif dictionary[stem][0][-1] in s_voiceless:
+						elif dictionary[stem][0][-1] in "ᚠᚻᛣᛈᛏᚦ":
 							suffix = "ᛋ"
 						else:
 							suffix = "ᛉ"
+					elif suffix == "ly":
+						if dictionary[stem][0][-1] == "ᛚ":
+							suffix = "ᛖ̇"
+						else:
+							suffix = "ᛚᛖ̇"
 
 				out_text.append("/".join(prefix+pron+suffix for pron in dictionary[stem]))
-
-			#print(f"prefix: {prefix}\nsuffix: {suffix}\nstem: {stem}")
 
 		# no match in dictionary
 		else:
