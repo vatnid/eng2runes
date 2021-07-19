@@ -519,7 +519,7 @@ basis	básis
 basket	basket
 basketball	basketbål
 bass	bas
-bass	baʸs
+bass 2	baʸs
 bat	bat
 bath	baþ
 bathe	baʸð
@@ -677,7 +677,7 @@ bookcase	bqkkaʸs
 bookshelf	bqkxelf
 bookshelve	bqkxelv
 bookstore	bqkstoʷr
-bookworm	bqkʷurm
+bookworm	bqkwurm
 boom	bq̇m
 boost	bq̇st
 boot	bq̇t
@@ -697,7 +697,7 @@ bounce	bqʷns
 bound	bqʷnd
 boundary	bq́ndaré
 bow	boʷ
-bow	bqʷ
+bow 2	bqʷ
 bowl	boʷl
 box	boks
 boy	boʸ
@@ -738,7 +738,6 @@ bring	briŋ
 broad	bråd
 broadband	brådband
 broadcast	brådkast
-broadcaster	brådkaster
 broke	broʷk
 broken	broʷken
 broker	bróker
@@ -1081,7 +1080,6 @@ close v	kloʷz
 closure	klózúr
 cloth	kloþ
 clothe	kloʷð
-clothes	kloʷðz
 clothier	kloʷðier
 clothing	kloʷðiŋ
 cloud	klqʷd
@@ -1225,7 +1223,6 @@ compulsory	kompulsoré
 computation	kompútásion
 computational	kompútásional
 compute	kompút
-computer	kompúter
 computerise	kompúteríz
 computerize	kompúteríz
 conceal	konsél
@@ -1662,7 +1659,7 @@ dehydrate	dehídrát
 dehydration	dehídrásion
 delay	delaʸ
 delegate	delegat
-delegate	delegát
+delegate 2	delegát
 delegation	delegásion
 delete	delét
 deletion	delésion
@@ -2081,7 +2078,7 @@ eighth	aʸtþ
 eighty	aʸté
 either	íðer
 elaborate	elaborat
-elaborate	elaborát
+elaborate 2	elaborát
 elaboration	elaborásion
 elastic	elastik
 elasticity	elastisité
@@ -3465,7 +3462,7 @@ interview	intervú
 interviewee	intervúé
 intestine	intestin
 intimate	intimat
-intimate	intimát
+intimate 2	intimát
 intimation	intimásion
 into	intq̇
 intro	intró
@@ -5280,7 +5277,7 @@ restrictive	restriktiv
 result	rezult
 resultant	rezultant
 resume	rezúm
-resume	rezúmaʸ
+resume 2	rezúmaʸ
 resumption	rezumsion
 retail	rétál
 retain	retán
@@ -5782,7 +5779,7 @@ southern	suðern
 sovereign	soveran
 sovereignty	soveranté
 sow	soʷ
-sow	sqʷ
+sow 2	sqʷ
 sown	soʷn
 space	spaʸs
 spade	spaʸd
@@ -6139,7 +6136,7 @@ team	teʸm
 teammate	teʸmmaʸt
 teamwork	teʸmwurk
 tear	taʸr
-tear	teʸr
+tear 2	teʸr
 technical	teknikal
 technicality	teknikalité
 technician	teknision
@@ -6722,10 +6719,10 @@ wildlife	wiʸldliʸf
 will	wil
 win	win
 wind	wind
-wind	wiʸnd
+wind 2	wiʸnd
 window	windó
 windy	windé
-windy	wiʸndé
+windy 2	wiʸndé
 wine	wiʸn
 winemake	wiʸnmaʸk
 winery	wiʸneré
