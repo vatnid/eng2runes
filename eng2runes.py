@@ -11,10 +11,9 @@ def latin2runes(word):
 
 	return re.sub(r"ᚢ§", r"ᚤ", runes)
 
-
 # read dictionary
 dictionary = defaultdict(list)
-with open(f"dictionary.txt", "r") as f:
+with open(f"dictionary.txt", "r", encoding = "utf-8") as f:
 	for line in f:
 		entry = line.strip()
 		dictionary[entry.split("\t")[0]].append(latin2runes(entry.split("\t")[1]))
