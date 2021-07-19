@@ -109,14 +109,14 @@ def lookup(in_text, dictionary):
 				else:
 					if suffix in ["edly", "eds", "ed"]:
 						if dictionary[stem][0][-1] in "ᛞᛏ":
-							suffix = "ᛁᛞ"
+							suffix = "ᛖᛞ"
 						elif dictionary[stem][0][-1] in "ᚳᚠᚻᛣᛈᛋᚦ":
 							suffix = "ᛏ"
 						else:
 							suffix = "ᛞ"
 					elif suffix in ["'s", "s"]:
 						if dictionary[stem][0][-1] in "ᚳᚷᛋᛉ":
-							suffix = "ᛁᛉ"
+							suffix = "ᛖᛉ"
 						elif dictionary[stem][0][-1] in "ᚠᚻᛣᛈᛏᚦ":
 							suffix = "ᛋ"
 						else:
