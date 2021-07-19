@@ -2160,6 +2160,8 @@ endeavor	endevor
 endeavour	endevor
 endorse	endors
 endorsement	endorsment
+endow	endqʷ
+endowment	endqʷment
 endurance	endúrans
 endure	endúr
 enemy	enemé
@@ -2682,7 +2684,7 @@ frank	fraŋk
 fraud	fråd
 fraudster	frådster
 fraudulent	frådúlent
-free	freʸk
+free	freʸ
 freedom	freʸdom
 freeway	freʸwaʸ
 freeze	freʸz
@@ -6318,6 +6320,7 @@ tour	tq̇r
 tourism	tq̇rizem
 tourist	tq̇rist
 tournament	tq̇rnament
+toward	tq̇word
 towel	tqʷel
 tower	tqʷr
 town	tqʷn
