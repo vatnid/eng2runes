@@ -16,7 +16,11 @@ dictionary = defaultdict(list)
 with open(f"dictionary.txt", "r", encoding = "utf-8") as f:
 	for line in f:
 		entry = line.strip()
-		dictionary[entry.split("\t")[0]].append(latin2runes(entry.split("\t")[1]))
+		word = entry.split("\t")[0]
+		transcription = latin2runes(entry.split("\t")[1])
+		if len(word.split()) > 1:
+			word = word.split()[0]
+		dictionary[word].append(transcription)
 
 
 def lookup(in_text, dictionary):
