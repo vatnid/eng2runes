@@ -38,6 +38,8 @@ def lookup(in_text, dictionary):
 
 	suffixes = d_suffixes + nd_suffixes
 
+	cons = "bcdfghjklmnpqrstvwxz"
+
 	for word in words:
 		if word in dictionary:
 			out_text.append("/".join(pron for pron in dictionary[word]))
@@ -62,6 +64,9 @@ def lookup(in_text, dictionary):
 						suffix = stem[-len(s):]
 
 					stem = stem[:-len(s)]
+					
+					if stem in dictionary:
+						break
 
 					# -(i)es
 					if s == "es":
@@ -69,24 +74,24 @@ def lookup(in_text, dictionary):
 						if stem + "e" in dictionary:
 							stem = stem + "e"
 							suffix = "s"
-							break
 						# ies
 						elif stem.endswith("i") and stem[:-1]+"y" in dictionary:
 							suffix = "s"
 							stem = stem[:-1]+"y"
-							break
+						break
 
 					# -(i)ly
 					elif s == "ly":
 						if stem.endswith("i") and stem[:-1]+"y" in dictionary:
 							stem = stem[:-1]+"y"
-							break
+						break
 
 					elif s in d_suffixes:
-						if stem + "e" in dictionary:
-							stem = stem + "e"
-						elif (stem.endswith("ck") or stem[-1] == stem[-2]) and stem[:-1] in dictionary:
-							stem = stem[:-1]
+						if stem.endswith(tuple(cons)):
+							if stem + "e" in dictionary:
+								stem = stem + "e"
+							elif (stem.endswith("ck") or stem[-1] == stem[-2]) and stem[:-1] in dictionary:
+								stem = stem[:-1]
 						# e.g. lie --> lying
 						if s in ["ingly", "ings", "ing"]:
 							if stem.endswith("y") and stem[:-1]+"ie" in dictionary:
@@ -95,6 +100,16 @@ def lookup(in_text, dictionary):
 						elif s in ["ers", "er", "est", "edly", "eds", "ed"]:
 							if stem.endswith("i") and stem[:-1]+"y" in dictionary:
 								stem = stem[:-1]+"y"
+						break
+
+			# debug
+			structure = ""
+			if prefix != "":
+				structure += prefix + "-"
+			structure += stem.upper()
+			if suffix != "":
+				structure += "-" + suffix
+			print(f"Structure: {structure}")
 
 			# if stem not found
 			if stem not in dictionary:
