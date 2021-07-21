@@ -2,8 +2,9 @@ from collections import defaultdict
 import re
 import sys
 from nltk import pos_tag as pos
-from nltk.tokenize.treebank import TreebankWordTokenizer
-from nltk.tokenize.treebank import TreebankWordDetokenizer
+#from nltk.tokenize.treebank import TreebankWordTokenizer
+#from nltk.tokenize.treebank import TreebankWordDetokenizer
+from nltk.tokenize import RegexpTokenizer
 
 # convert word from latin to runes
 def latin2runes(word):
@@ -30,7 +31,8 @@ with open(f"dictionary.txt", "r", encoding = "utf-8") as f:
 
 def lookup(in_text, dictionary):
 	out_text = []
-	words = TreebankWordTokenizer().tokenize(in_text, convert_parentheses=True)
+	tokenizer = RegexpTokenizer(r"\w+(?:'\w+)?|[^\w\s]")
+	words = tokenizer.tokenize(in_text)
 
 	tagged_words = pos(words)
 
@@ -120,13 +122,11 @@ def lookup(in_text, dictionary):
 						elif stem.endswith("i") and stem[:-1]+"y" in dictionary:
 							suffix = "s"
 							stem = stem[:-1]+"y"
-						break
 
 					# -(i)ly
 					elif s == "ly":
 						if stem.endswith("i") and stem[:-1]+"y" in dictionary:
 							stem = stem[:-1]+"y"
-						break
 
 					elif s in d_suffixes:
 						if stem.endswith(tuple(cons)):
@@ -134,8 +134,7 @@ def lookup(in_text, dictionary):
 								stem = stem + "e"
 							elif len(stem) >=2 and (stem.endswith("ck") or stem[-1] == stem[-2]) and stem[:-1] in dictionary:
 								stem = stem[:-1]
-							if stem not in dictionary:
-								continue
+
 						# e.g. lie --> lying
 						if s in ["ingly", "ings", "ing"]:
 							if stem.endswith("y") and stem[:-1]+"ie" in dictionary:
@@ -144,9 +143,11 @@ def lookup(in_text, dictionary):
 						elif s in ["ers", "er", "est", "edly", "eds", "ed"]:
 							if stem.endswith("i") and stem[:-1]+"y" in dictionary:
 								stem = stem[:-1]+"y"
-						break
 
-					if stem not in dict_words:
+					if stem in dict_words:
+						break
+					else:
+						stem += s
 						continue
 
 			# debug
@@ -200,7 +201,13 @@ def lookup(in_text, dictionary):
 	
 	print(out_text)
 
-	return TreebankWordDetokenizer().detokenize(out_text, convert_parentheses=True)
+	output = " ".join(out_text)
+	output = re.sub(r" - ", r"-", output)
+	output = re.sub(r"\( ", r"(", output)
+	output = re.sub(r" ([,.:;!\?\)])", r"\1", output)
+	output = re.sub(r"\s\s+", r" ", output)
+
+	return output
 
 
 if len(sys.argv) > 1:
