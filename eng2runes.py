@@ -2,6 +2,8 @@ from collections import defaultdict
 import re
 import sys
 from nltk import pos_tag as pos
+from nltk.tokenize.treebank import TreebankWordTokenizer
+from nltk.tokenize.treebank import TreebankWordDetokenizer
 
 # convert word from latin to runes
 def latin2runes(word):
@@ -14,20 +16,28 @@ def latin2runes(word):
 	return re.sub(r"ᚢ§", r"ᚤ", runes)
 
 # read dictionary
-dictionary = defaultdict(list)
+#dictionary = defaultdict(list)
+dictionary = {}
 with open(f"dictionary.txt", "r", encoding = "utf-8") as f:
 	for line in f:
 		entry = line.strip()
 		word = entry.split("\t")[0]
 		transcription = latin2runes(entry.split("\t")[1])
-		if len(word.split()) > 1:
-			word = word.split()[0]
-		dictionary[word].append(transcription)
+		#if len(word.split()) > 1:
+		#	word = word.split()[0]
+		dictionary[word] = transcription
 
 
 def lookup(in_text, dictionary):
 	out_text = []
-	words = in_text.split()
+	words = TreebankWordTokenizer().tokenize(in_text, convert_parentheses=True)
+
+	tagged_words = pos(words)
+
+	print(f"Tagged words: {tagged_words}")
+
+
+	dict_words = [k.split()[0] for k in dictionary.keys()]
 
 
 	prefixes = ["under", "over", "non-", "non", "un"]
@@ -39,16 +49,42 @@ def lookup(in_text, dictionary):
 
 	suffixes = d_suffixes + nd_suffixes
 	suffixes.sort()
-	suffixes.sort(key=len)
+	suffixes.sort(key=len, reverse=True)
 
 	cons = "bcdfghjklmnpqrstvwxz"
 
-	for word in words:
+	adjs = ["JJ", "JJR", "JJS"]
+	nouns = ["NN", "NNS", "NNP", "NNPS"]
+	verbs = ["VB", "VBD", "VBG", "VBN", "VBP", "VBZ"]
+
+	for word, tag in tagged_words:
+		if word in ",.!?:;" or word in ["-LRB-", "-RRB-"]:
+			out_text.append(word)
+			continue
+
 		if word in dictionary:
-			out_text.append("/".join(pron for pron in dictionary[word]))
+			out_text.append(dictionary[word])
+			continue
+			#out_text.append("/".join(pron for pron in dictionary[word]))
+		
+		if tag in adjs and word+" adj" in dictionary:
+			out_text.append(dictionary[word+" adj"])
+			continue
+		elif tag in nouns and word+" n" in dictionary:
+			out_text.append(dictionary[word+" n"])
+			continue
+		elif tag in verbs and word+" v" in dictionary:
+			out_text.append(dictionary[word+" v"])
+			continue
+		elif tag == "VBP" and word+" (pres)" in dictionary:
+			out_text.append(dictionary[word+" (pres)"])
+			continue
+		elif tag in ["VBD", "VBN"] and word+" (past)" in dictionary:
+			out_text.append(dictionary[word+" (past)"])
+			continue
 
 		# prefixes and suffixes
-		elif word.startswith(tuple(prefixes)) or word.endswith(tuple(suffixes)):
+		if word.startswith(tuple(prefixes)) or word.endswith(tuple(suffixes)):
 			stem = word
 			prefix = ""
 			suffix = ""
@@ -59,6 +95,7 @@ def lookup(in_text, dictionary):
 					stem = stem[len(p):]
 					break
 
+			print(suffixes)
 			for s in suffixes:
 				if stem.endswith(s):
 
@@ -71,8 +108,7 @@ def lookup(in_text, dictionary):
 
 					stem = stem[:-len(s)]
 
-					if stem in dictionary:
-						break
+					print(f"STEM: {stem}")
 
 					# -(i)es
 					if s == "es":
@@ -110,6 +146,9 @@ def lookup(in_text, dictionary):
 								stem = stem[:-1]+"y"
 						break
 
+					if stem not in dict_words:
+						continue
+
 			# debug
 			structure = ""
 			if prefix != "":
@@ -132,33 +171,36 @@ def lookup(in_text, dictionary):
 				# phonological rules for -ed and -s
 				else:
 					if suffix in ["edly", "eds", "ed"]:
-						if dictionary[stem][0][-1] in "ᛞᛏ":
+						if dictionary[stem][-1] in "ᛞᛏ":
 							suffix = "ᛖᛞ"
-						elif dictionary[stem][0][-1] in "ᚳᚠᚻᛣᛈᛋᚦ":
+						elif dictionary[stem][-1] in "ᚳᚠᚻᛣᛈᛋᚦ":
 							suffix = "ᛏ"
 						else:
 							suffix = "ᛞ"
 					elif suffix in ["'s", "s"]:
-						if dictionary[stem][0][-1] in "ᚳᚷᛋᛉ":
+						if dictionary[stem][-1] in "ᚳᚷᛋᛉ":
 							suffix = "ᛖᛉ"
-						elif dictionary[stem][0][-1] in "ᚠᚻᛣᛈᛏᚦ":
+						elif dictionary[stem][-1] in "ᚠᚻᛣᛈᛏᚦ":
 							suffix = "ᛋ"
 						else:
 							suffix = "ᛉ"
 					elif suffix == "ly":
-						if dictionary[stem][0][-1] == "ᛚ":
+						if dictionary[stem][-1] == "ᛚ":
 							suffix = "ᛖ̇"
 						else:
 							suffix = "ᛚᛖ̇"
 
-				out_text.append("/".join(prefix+pron+suffix for pron in dictionary[stem]))
+				#out_text.append("/".join(prefix+pron+suffix for pron in dictionary[stem]))
+				out_text.append(prefix+dictionary[stem]+suffix)
+
 
 		# no match in dictionary
 		else:
 			out_text.append(word)
 	
+	print(out_text)
 
-	return " ".join(word for word in out_text)
+	return TreebankWordDetokenizer().detokenize(out_text, convert_parentheses=True)
 
 
 if len(sys.argv) > 1:
