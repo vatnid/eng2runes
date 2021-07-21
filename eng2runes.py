@@ -1,6 +1,7 @@
 from collections import defaultdict
 import re
 import sys
+from nltk import pos_tag as pos
 
 # convert word from latin to runes
 def latin2runes(word):
@@ -30,13 +31,15 @@ def lookup(in_text, dictionary):
 
 
 	prefixes = ["under", "over", "non-", "non", "un"]
-	d_suffixes = ["abilities", "ability", "able", "ingly", "ings", "ing", "ers", "er", "est", "edly", "eds", "ed"] # doubling
-	nd_suffixes = ["lessnesses", "lessness", "lessly", "less", "nesses", "ness", "ly", "es", "'s", "s"] # non-doubling
+	d_suffixes = ["ed", "eds", "er", "ers", "est", "edly", "ing", "ings", "ingly", "able", "ability", "abilities"] # doubling
+	nd_suffixes = ["s", "'s", "es", "ly", "ness", "nesses", "less", "lessly", "lessness", "lessnesses"] # non-doubling
 
 	prefix_pron = {"under": "ᛇᚾᛞᛖᚱ", "over": "ᚩ̇ᚢᛖᚱ", "non-": "ᚾᚩᚾ", "non": "ᚾᚩᚾ", "un": "ᛇᚾ"}
 	suffix_pron = {"lessnesses": "ᛚᛖᛋᚾᛖᛋᛖᛉ", "lessness": "ᛚᛖᛋᚾᛖᛋ", "lessly": "ᛚᛖᛋᛚᛖ̇", "less": "ᛚᛖᛋ", "nesses": "ᚾᛖᛋᛖᛉ", "ness": "ᚾᛖᛋ", "abilities": "ᚫᛒᛁᛚᛁᛏᛖ̇ᛉ", "ability": "ᚫᛒᛁᛚᛁᛏᛖ̇", "able": "ᚫᛒᛖᛚ", "ingly": "ᛁᛝᛚᛖ̇", "ings": "ᛁᛝᛉ", "ing": "ᛁᛝ", "ers": "ᛖᚱᛉ", "er": "ᛖᚱ", "est": "ᛖᛋᛏ", "es": "ᛖᛉ"}
 
 	suffixes = d_suffixes + nd_suffixes
+	suffixes.sort()
+	suffixes.sort(key=len)
 
 	cons = "bcdfghjklmnpqrstvwxz"
 
@@ -58,13 +61,16 @@ def lookup(in_text, dictionary):
 
 			for s in suffixes:
 				if stem.endswith(s):
+
+					print(f"Current suffix: {s}")
+
 					if s == "'s":
 						suffix = "s"
 					else:
 						suffix = stem[-len(s):]
 
 					stem = stem[:-len(s)]
-					
+
 					if stem in dictionary:
 						break
 
@@ -90,8 +96,10 @@ def lookup(in_text, dictionary):
 						if stem.endswith(tuple(cons)):
 							if stem + "e" in dictionary:
 								stem = stem + "e"
-							elif (stem.endswith("ck") or stem[-1] == stem[-2]) and stem[:-1] in dictionary:
+							elif len(stem) >=2 and (stem.endswith("ck") or stem[-1] == stem[-2]) and stem[:-1] in dictionary:
 								stem = stem[:-1]
+							if stem not in dictionary:
+								continue
 						# e.g. lie --> lying
 						if s in ["ingly", "ings", "ing"]:
 							if stem.endswith("y") and stem[:-1]+"ie" in dictionary:

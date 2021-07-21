@@ -1,6 +1,7 @@
 a	a
 abandon	abandon
 abandonment	abandonment
+abide	abiʸd
 ability	abilité
 able	ábel
 abnormal	abnormal
@@ -25,8 +26,11 @@ absurd	absurd
 absurdity	absurdité
 abundance	abundans
 abundant	abundant
-abuse	abús
+abuse n	abús
 abuse v	abúz
+abused	abúzd
+abuser	abúzer
+abusing	abúziŋ
 academia	akadémia
 academic	akademik
 academy	akademé
@@ -58,6 +62,8 @@ accuracy	akúrasé
 accurate	akúrat
 accusation	akúzásion
 accuse	akúz
+accustomed	akustomd
+ache	aʸk
 achieve	acév
 achievement	acévment
 acid	asid
@@ -81,6 +87,7 @@ actual	aktúal
 actuality	aktúalité
 acute	akút
 ad	ad
+ada	áda
 adapt	adapt
 adaptation	adaptásion
 add	ad
@@ -93,6 +100,7 @@ adequate	adekwat
 adhere	adhér
 adjacent	ajásent
 adjective	ajektiv
+adjourn	ajurn
 adjust	ajust
 adjustment	ajustment
 administer	administer
@@ -128,11 +136,13 @@ affect	afekt
 affection	afeksion
 affectionate	afeksionat
 afford	aford
+afore	afoʷr
 afraid	afraʸd
 after	after
 aftermath	aftermaþ
 afternoon	afternq̇n
 afterthought	afterþåt
+afterward	afterword
 again	agaʸn
 against	agaʸnst
 age	aʸj
@@ -142,13 +152,16 @@ agent	ájent
 aggression	agresion
 aggressive	agresiv
 aggressor	agresor
+agh	ah
 ago	agoʷ
+agony	agoné
 agree	agré
 agreement	agrément
 agricultural	agrikultúral
 agriculture	agrikultúr
 ah	a
 ahead	ahed
+ahem	ahem
 aid	aʸd
 aide	aʸd
 aim	aʸm
@@ -168,6 +181,7 @@ alcohol	alkohol
 alcoholic	alkoholik
 alert	alert
 algebra	aljebra
+alice	alis
 alien	álien
 alienate	álienát
 align	alín
@@ -187,6 +201,7 @@ almost	ålmoʷst
 alone	aloʷn
 along	aloŋ
 alongside	aloŋsiʸd
+aloud	alqʷd
 already	ålredé
 alright	ålriʸt
 also	ålsoʷ
@@ -246,6 +261,7 @@ animation	animásion
 animator	animátor
 anime	animaʸ
 ankle	aŋkel
+ann	an
 anniversary	aniversaré
 announce	anq́ns
 announcement	anq́nsment
@@ -259,6 +275,7 @@ answer	anser
 ant	ant
 anticipate	antisipát
 anticipation	antisipásion
+antipathy	antipaþé
 anxiety	aŋzíeté
 anxious	aŋksios
 any	ané
@@ -291,6 +308,7 @@ appetise	apetíz
 appetite	apetít
 appetize	apetíz
 applaud	aplåd
+applause	aplåz
 apple	apel
 applicable	aplikabel
 applicant	aplikant
@@ -302,13 +320,19 @@ appreciate	aprésiát
 appreciation	aprésiásion
 appreciative	aprésiativ
 approach	apróc
-appropriate	aprópriat
+appropriate adj	aprópriat
 appropriate v	aprópriát
+appropriated	aprópriáted
+appropriately	aprópriatlé
+appropriating	aprópriátiŋ
 appropriation	aprópriásion
 approval	aprq̇val
 approve	aprq̇v
-approximate	aproksimat
+approximate adj	aproksimat
 approximate v	aproksimát
+approximated	aproksimáted
+approximately	aproksimatlé
+approximating	aproksimátiŋ
 approximation	aproksimásion
 april	ápril
 arbitrary	arbitraré
@@ -317,6 +341,13 @@ arbitration	arbitrásion
 arbitrator	arbitrátor
 arc	ark
 arch	arc
+archaeological	arkéolojikal
+archaeologist	arkéolojist
+archaeology	arkéolojé
+archbishop	arcbixop
+archeological	arkéolojikal
+archeologist	arkéolojist
+archeology	arkéolojé
 architect	arkitekt
 architectural	arkitektúral
 architecture	arkitektúr
@@ -347,6 +378,7 @@ arrest	arest
 arrival	aríval
 arrive	arív
 arrow	aró
+arrum	arum
 art	art
 article	artikel
 articulate	artikúlát
@@ -359,8 +391,10 @@ artwork	artʷurk
 as	az
 asbestos	asbestos
 ash	ax
+ashame	axaʸm
 aside	asiʸd
 ask	ask
+askance	askans
 asleep	asleʸp
 aspect	aspekt
 aspiration	aspirásion
@@ -385,8 +419,10 @@ assist	asist
 assistance	asistans
 assistant	asistant
 assistive	asistiv
-associate	asósiat
+associate n	asósiat
 associate v	asósiát
+associated	asósiáted
+associating	asósiátiŋ
 association	asosiásion
 associative	asósiativ
 assume	asúm
@@ -396,10 +432,12 @@ assure	axúr
 asylum	asílum
 at	at
 ate	aʸt
+atheling	aðeliŋ
 athlete	aþlét
 athletic	aþletik
 atmosphere	atmosfér
 atmospheric	atmosferik
+atom	atom
 atrocity	atrosité
 attach	atac
 attachment	atacment
@@ -422,6 +460,7 @@ attribute	atribút
 attribution	atribúsion
 attributive	atribútiv
 auction	åksion
+audible	ådibel
 audience	ådiens
 audio	ådió
 audit	ådit
@@ -432,6 +471,7 @@ august	ågust
 aunt	ant
 auntie	anté
 aunty	anté
+australia	åstrália
 authentic	åþentik
 authenticate	åþentikát
 authentication	åþentikásion
@@ -473,6 +513,9 @@ awhile	ahwiʸl
 awkward	åkword
 awoke	awoʷk
 awoken	awoʷken
+aww	å
+ax	aks
+axe	aks
 axis	aksis
 baby	bábé
 back	bak
@@ -495,6 +538,7 @@ ball	bål
 ballet	balaʸ
 balloon	balq̇n
 ballot	balot
+ballsack	bålsak
 ban	ban
 banana	banana
 band	band
@@ -503,13 +547,16 @@ bank	baŋk
 bankrupt	baŋkrupt
 bankruptcy	baŋrupsé
 banner	baner
+banquet	baŋkwet
 bar	bar
 bare	baʸr
 barefoot	baʸrfqt
 bargain	bargan
 bark	bark
+barley	barlé
 barrel	barel
 barrier	barier
+barrowful	barófql
 base	baʸs
 baseball	baʸsbål
 basement	baʸsment
@@ -518,7 +565,7 @@ basin	básin
 basis	básis
 basket	basket
 basketball	basketbål
-bass	bas
+bass 1	bas
 bass 2	baʸs
 bat	bat
 bath	baþ
@@ -529,6 +576,7 @@ battery	bateré
 battle	batel
 battlefield	batelfeʸld
 battleground	batelgrqʷnd
+bawl	bål
 bay	baʸ
 be	beʸ
 beach	beʸc
@@ -541,8 +589,8 @@ beard	beʸrd
 beast	beʸst
 beat	beʸt
 beaten	beʸten
-beautiful	bútefql
-beautify	bútefí
+beautiful	bútéfql
+beautify	bútéfí
 beauty	búté
 became	bekaʸm
 because	bekåz
@@ -565,12 +613,14 @@ behavior	behávior
 behavioral	behávioral
 behaviour	behávior
 behavioural	behávioral
+behead	behed
 behind	behiʸnd
 behold	behoʷld
 belief	beleʸf
 believe	beleʸv
 bell	bel
 belong	beloŋ
+beloved	beluvd
 below	beloʷ
 belt	belt
 bench	benc
@@ -679,6 +729,7 @@ bookshelve	bqkxelv
 bookstore	bqkstoʷr
 bookworm	bqkwurm
 boom	bq̇m
+boon	bq̇n
 boost	bq̇st
 boot	bq̇t
 border	border
@@ -692,11 +743,12 @@ both	boʷþ
 bother	boðer
 bottle	botel
 bottom	botom
+bough	bqʷ
 bought	båt
 bounce	bqʷns
 bound	bqʷnd
 boundary	bq́ndaré
-bow	boʷ
+bow 1	boʷ
 bow 2	bqʷ
 bowl	boʷl
 box	boks
@@ -709,6 +761,7 @@ brainwave	braʸnwaʸv
 brake	braʸk
 branch	branc
 brand	brand
+brandy	brandé
 brass	bras
 brave	braʸv
 bravery	bráveré
@@ -728,13 +781,16 @@ breath	breþ
 breathe	breʸð
 bred	bred
 breed	breʸd
+breeze	breʸz
 brick	brik
 bride	briʸd
 bridge	brij
 brief	breʸf
 bright	briʸt
+brighten	briʸten
 brilliant	briliant
 bring	briŋ
+bristle	brisel
 broad	bråd
 broadband	brådband
 broadcast	brådkast
@@ -792,6 +848,7 @@ bye	biʸ
 cabin	kabin
 cabinet	kabinet
 cable	kábel
+cackle	kakel
 cafe	kafaʸ
 cake	kaʸk
 calculate	kalkúlát
@@ -802,11 +859,13 @@ call	kål
 calm	kalm
 came	kaʸm
 camera	kamera
+camomile	kamomél
 camp	kamp
 campaign	kampán
 campus	kampus
 can	kan
 canal	kanal
+canary	kanáré
 cancel	kansel
 cancelation	kanselásion
 cancellation	kanselásion
@@ -832,11 +891,13 @@ canonise	kanoníz
 canonize	kanoníz
 cant	kant
 can't	kant
+canterbury	kanterburé
 canvas	kanvas
 cap	kap
 capability	kápabilité
 capable	kápabel
 capacity	kapasité
+caper	káper
 capital	kapital
 capitalise	kapitalíz
 capitalism	kapitalizem
@@ -867,6 +928,7 @@ cart	kart
 cartilage	kartilaj
 cartoon	kartq̇n
 cartoonist	kartq̇nist
+cartwheel	karthweʸl
 carve	karv
 case	kaʸs
 cash	kax
@@ -887,8 +949,11 @@ categorization	kategorizásion
 categorize	kategoríz
 category	kategoré
 cater	káter
+caterpillar	katerpilar
 cattle	katel
+caucus	kåkus
 caught	kåt
+cauldron	kåldron
 cause	kåz
 caution	kåsion
 cautionary	kåsionaré
@@ -974,6 +1039,8 @@ chef	xef
 chemical	kemikal
 chemist	kemist
 chemistry	kemistré
+cherry	ceré
+cheshire	cexir
 chest	cest
 chicken	ciken
 chief	ceʸf
@@ -983,6 +1050,7 @@ childbirth	ciʸldbirþ
 childcare	ciʸldkaʸr
 childhood	ciʸldhqd
 childish	ciʸldix
+childlike	ciʸldliʸk
 children	cildren
 chimney	cimné
 chin	cin
@@ -994,13 +1062,17 @@ chocolate	cokolat
 choice	cois
 choir	kwiʸr
 choirboy	kwiʸrboʸ
+choke	coʷk
 choose	cuʷz
 chop	cop
 chorus	kórus
 chose	coʷz
 chosen	coʷzen
+christmas	kristmas
 chronic	kronik
 chronicle	kronikel
+chrysalis	krisalis
+chuckle	cukel
 chunk	cuŋk
 church	curc
 churchyard	curcyard
@@ -1040,10 +1112,14 @@ civility	sivilité
 civilization	sivilizásion
 claim	klaʸm
 claimant	klaʸmant
+clamor	klamor
+clamour	klamor
+clap	klap
 clarification	klarifikásion
 clarify	klarifí
 clarity	klarité
 clash	klax
+clasp	klasp
 class	klas
 classic	klasik
 classical	klasikal
@@ -1075,8 +1151,11 @@ clip	klip
 clock	klok
 clockwise	klokwiʸz
 clockwork	klokwurk
-close	kloʷs
+close adj	kloʷs
 close v	kloʷz
+closed	kloʷzd
+closely	kloʷslé
+closing	kloʷziŋ
 closure	klózúr
 cloth	kloþ
 clothe	kloʷð
@@ -1098,7 +1177,11 @@ coastal	koʷstal
 coastguard	koʷstgard
 coastline	koʷstliʸn
 coat	koʷt
+coax	koʷks
+cock	kok
+cocksuck	koksuk
 cocktail	koktál
+cocky	koké
 code	koʷd
 codify	kodifí
 coffee	kofé
@@ -1146,6 +1229,7 @@ combination	kombinásion
 combine	kombín
 come	kum
 comedy	komedé
+comfit	kumfit
 comfort	kumfort
 comfortable	kumfortabel
 comic	komik
@@ -1170,6 +1254,7 @@ committal	komital
 committee	komité
 commodity	komodité
 common	komon
+commotion	komósion
 communicate	komúnikát
 communication	komúnikásion
 communicative	komúnikativ
@@ -1275,6 +1360,7 @@ confront	konfrunt
 confrontation	confruntásion
 confuse	konfúz
 confusion	konfúzion
+conger	koŋger
 congrats	kongrats
 congratulate	kongratúlát
 congratulation	kongratúlásion
@@ -1286,6 +1372,7 @@ connect	konekt
 connection	kokeksion
 conquer	koŋker
 conqueror	koŋkeror
+conquest	koŋkwest
 conscience	konsiens
 conscientious	konsiensios
 conscious	konsios
@@ -1339,6 +1426,7 @@ contemplation	kontemplásion
 contemplative	kontemplativ
 contemporary	kontemporaré
 contempt	kontemt
+contemptuous	kontemtúos
 contend	kontend
 contender	kontender
 content	kontent
@@ -1441,6 +1529,7 @@ counsellor	kq́nselor
 count	kqʷnt
 countdown	kqʷntdqʷn
 counter	kqʷnter
+counterfeit	kq̇nterfet
 counterpart	kq́nterpart
 country	kuntré
 countryman	kuntréman
@@ -1457,11 +1546,14 @@ coursework	koʷrswurk
 court	koʷrt
 courteous	kurtéos
 courtesy	kurtesé
+courtier	kórtier
 cousin	kuzin
 cover	kuver
 coverage	kuveraj
 cow	kqʷ
+coward	kq́ard
 cowbell	kqʷbel
+crab	krab
 crack	krak
 crackdown	krakdqʷn
 craft	kraft
@@ -1492,6 +1584,7 @@ criminality	kriminalité
 criminalize	kriminalíz
 criminologist	kriminolojist
 criminology	kriminolojé
+crimson	krimzon
 crisis	krísis
 criterion	krítérion
 critic	kritik
@@ -1500,11 +1593,13 @@ criticise	kritisíze
 criticism	kritisizem
 criticize	kritisíz
 critique	kriték
+crocodile	krokodíl
 crop	krop
 cross	kros
 crossbow	krosboʷ
 crossroad	krosroʷd
 crossword	kroswurd
+crouch	krqʷc
 crow	kroʷ
 crowd	krqʷd
 crown	krqʷn
@@ -1517,12 +1612,18 @@ crudity	krúdité
 cruel	krúel
 cruelty	krúelté
 cruise	kruʷz
+crumb	krum
 crush	krux
+crust	krust
 cry	kriʸ
 crystal	kristal
 crystalline	kristalin
 crystallise	kristalíz
 crystallize	kristalíz
+cube	kuʷb
+cubic	kuʷbik
+cubicle	kúbikel
+cucumber	kúkumber
 cue	kuʷ
 cult	kult
 cultivate	kultivát
@@ -1530,19 +1631,27 @@ cultivation	kultivásion
 cultivator	kultivátor
 cultural	kultúral
 culture	kultúr
+cum	kum
+cunning	kuniŋ
+cunt	kunt
 cup	kup
 cupboard	kubord
+cur	kur
 cure	kuʷr
 curiosity	kúriosité
 curious	kúrios
+curl	kurl
 curly	kurlé
+currant	kurant
 currency	kurensé
 current	kurent
 curriculum	kurikúlum
 curtain	kurtan
+curtsey	kurtsé
 curve	kurv
 cushion	kusion
 cusp	kusp
+custard	kustard
 custody	kustodé
 custom	kustom
 customary	kustomaré
@@ -1563,13 +1672,18 @@ cynical	sinikal
 dad	dad
 daddy	dadé
 daily	daʸlé
+dainty	daʸnté
 dairy	dáré
+daisy	dázé
 dam	dam
 damage	damaj
+damn	dam
+damnation	damnásion
 dance	dans
 danger	dánjer
 dangerous	dánjeros
 dare	daʸr
+daresay	daʸrsaʸ
 dark	dark
 darken	darken
 data	dáta
@@ -1626,8 +1740,10 @@ deep	deʸp
 deepen	deʸpen
 default	defålt
 defeat	defét
-defect	défekt
+defect n	défekt
 defect v	defekt
+defected	defekted
+defecting	defektiŋ
 defection	defeksion
 defective	defektiv
 defector	defektor
@@ -1658,8 +1774,10 @@ dehumanize	déhúmaníz
 dehydrate	dehídrát
 dehydration	dehídrásion
 delay	delaʸ
-delegate	delegat
-delegate 2	delegát
+delegate n	delegat
+delegate v	delegát
+delegated	delegáted
+delegating	delegátiŋ
 delegation	delegásion
 delete	delét
 deletion	delésion
@@ -1724,6 +1842,9 @@ depth	depþ
 deputise	depútíz
 deputize	depútíz
 deputy	depúté
+deride	deríd
+derision	derizion
+derisive	derísiv
 derivation	derivásion
 derivative	derivativ
 derive	derív
@@ -1743,6 +1864,7 @@ designation	dezignásion
 desire	dezír
 desk	desk
 desktop	desktop
+despair	despár
 desperate	desperat
 desperation	desperásion
 despite	despít
@@ -1814,14 +1936,18 @@ digestive	díjestiv
 digital	dijital
 digitise	dijitíz
 digitize	dijitízer
+dignify	dignifí
 dignity	dignité
 dike	diʸk
 dilemma	dilema
+diligent	dilijent
 dilute	dílút
 dilution	dílúsion
 dimension	dimension
 dimensional	dimensional
 diminish	diminix
+dinah	dína
+dinn	din
 dinner	diner
 dip	dip
 diploma	diplóma
@@ -1884,8 +2010,10 @@ dishonesty	disonesté
 dishonour	disonor
 disk	disk
 dislike	disliʸk
+dismay	dismaʸ
 dismiss	dismis
 dismissal	dismisal
+disobey	disóbaʸ
 disorder	disorder
 disorganise	disorganíz
 disorganize	disorganíz
@@ -1942,6 +2070,8 @@ doctrine	doktrin
 document	dokúment
 documentary	dokúmentaré
 documentation	dokúmentásion
+dodge	doj
+dodo	dódó
 does	duz
 doesn't	duznt
 dog	dog
@@ -1962,8 +2092,11 @@ donor	dónor
 don't	doʷnt
 door	doʷr
 doorway	doʷrwaʸ
+dormice	dormiʸs
+dormouse	dormqʷs
 dose	doʷs
 dot	dot
+doth	duþ
 double	dubel
 doubt	dqʷt
 doubtful	dqʷtfql
@@ -1972,9 +2105,12 @@ downfall	dqʷnfål
 download	dqʷnloʷd
 downstairs	dqʷnstaʸrz
 downtown	dqʷntqʷn
+downward	dqʷnword
+doze	doʷz
 dozen	duzen
 draft	draft
 drag	drag
+draggle	dragel
 dragon	dragon
 dragonfly	dragonfliʸ
 drain	draʸn
@@ -1988,21 +2124,24 @@ drank	draŋk
 draw	drå
 drawback	dråbak
 drawer	drår
+drawl	drål
 drawn	drån
 dread	dred
 dreadful	dredfql
 dream	dreʸm
 dreamt	dremt
+dreamy	dreʸmé
 dress	dres
 drew	druʷ
 drift	drift
 drink	driŋk
+drip	drip
 drive	driʸv
 driven	driven
-driver	driʸver
 driveway	driʸvwaʸ
 drop	drop
 drought	drqʷt
+drove	droʷv
 drown	drqʷn
 drug	drug
 drum	drum
@@ -2013,14 +2152,19 @@ dry	driʸ
 dual	dúal
 duality	dúalité
 dub	dub
+duchess	duces
+duck	duk
+duckling	dukliŋ
 duct	dukt
 due	duʷ
 dug	dug
+duke	duʷk
 dull	dul
 dumb	dum
 dumbfound	dumfqʷnd
 dummy	dumé
 dump	dump
+dunce	duns
 duo	dúó
 duration	dúrásion
 during	dúriŋ
@@ -2030,9 +2174,12 @@ dynamic	dínamik
 dynamite	dínamít
 each	eʸc
 eager	éger
+eaglet	égelet
 ear	eʸr
+earl	erl
 early	erlé
 earn	ern
+earnest	ernest
 earring	eʸrriŋ
 earth	erþ
 earthquake	erþkwaʸk
@@ -2053,6 +2200,7 @@ economise	ekonomíz
 economist	ekonomist
 economize	ekonomíz
 economy	ekonomé
+edgar	edgar
 edge	ej
 edit	edit
 edition	edision
@@ -2062,6 +2210,8 @@ educate	edúkát
 education	edúkásion
 educational	edúkásional
 educator	edúkátor
+edwin	edwin
+eel	eʸl
 effect	efekt
 effective	efektiv
 efficacy	efikasé
@@ -2071,14 +2221,18 @@ effort	effort
 egg	eg
 eggshell	egxel
 ego	égó
+eh	e
 eight	aʸt
 eighteen	aʸteʸn
 eighteenth	aʸteʸnþ
 eighth	aʸtþ
 eighty	aʸté
 either	íðer
-elaborate	elaborat
-elaborate 2	elaborát
+elaborate adj	elaborat
+elaborate v	elaborát
+elaborated	elaboráted
+elaborately	elaboratlé
+elaborating	elaborátiŋ
 elaboration	elaborásion
 elastic	elastik
 elasticity	elastisité
@@ -2114,7 +2268,9 @@ elite	elét
 elitist	elétist
 else	els
 elsewhere	elshwaʸr
+elsie	elsé
 elves	elv
+'em	em
 email	émaʸl
 embark	embark
 embarrass	embaras
@@ -2172,6 +2328,9 @@ engage	engáj
 engagement	engájment
 engine	enjin
 engineer	enjinér
+england	iŋgland
+english	iŋglix
+engrave	engráv
 enhance	enhans
 enhancement	enhansment
 enjoy	enjoʸ
@@ -2185,6 +2344,7 @@ enrich	enric
 enrichment	enricment
 ensue	ensú
 ensure	enxúr
+entangle	entaŋgel
 enter	enter
 enterprise	enterpríz
 entertain	entertán
@@ -2227,6 +2387,7 @@ equip	ekwip
 equipment	ekwipment
 equivalence	ekwivalens
 equivalent	ekwivalent
+er	er
 era	era
 erect	erekt
 erection	ereksion
@@ -2309,10 +2470,14 @@ exclude	eksklúd
 exclusion	eksklúzion
 exclusionary	eksklúzionaré
 exclusive	eksklúsiv
-excuse	ekskús
+excusable	ekskúzabel
+excuse n	ekskús
 excuse v	ekskúz
+excused	ekskúzd
+excusing	ekskúziŋ
 execute	eksekút
 execution	eksekúsion
+executioner	eksekúsioner
 executive	egzekútiv
 executor	egzekútor
 exemplary	egzemplaré
@@ -2415,6 +2580,7 @@ fail	faʸl
 failure	fálúr
 faint	faʸnt
 fair	faʸr
+fairy	fáré
 faith	faʸþ
 faithful	faʸþfql
 fake	faʸk
@@ -2435,7 +2601,7 @@ famous	fámos
 fan	fan
 fanatic	fanatik
 fanatical	fanatikal
-fanciful	fansefql
+fanciful	fanséfql
 fancy	fansé
 fantastic	fantastik
 fantasy	fantasé
@@ -2445,6 +2611,7 @@ farewell	faʸrʷel
 farm	farm
 farmhouse	farmhqʷs
 farmland	farmland
+fart	fart
 farther	farðer
 farthest	farðest
 fashion	fasion
@@ -2478,16 +2645,20 @@ feed	feʸd
 feedback	feʸdbak
 feel	feʸl
 feet	feʸt
+fell	fel
 fellow	feló
 fellowship	felóxip
+felt	felt
 female	fémál
 feminine	feminin
 femininity	femininité
 feminism	feminizem
 feminist	feminist
 fence	fens
+fender	fender
 ferment	ferment
 fermentation	fermentásion
+ferret	feret
 fertile	fertíl
 fertilise	fertilíz
 fertilization	fertilizásion
@@ -2495,6 +2666,7 @@ fertilize	fertilíz
 festival	festival
 festive	festiv
 festivity	festivité
+fetch	fec
 fever	féver
 few	fuʷ
 fiber	fíber
@@ -2503,12 +2675,14 @@ fibre	fíber
 fiction	fiksion
 fictional	fiksional
 fictitious	fiktisios
+fidget	fijet
 field	feʸld
 fierce	feʸrs
 fifteen	fifteʸn
 fifteenth	fifténþ
 fifth	fifþ
 fifty	fifté
+fig	fig
 fight	fiʸt
 figurative	figúrativ
 figure	figúr
@@ -2560,7 +2734,9 @@ fixture	fikstúr
 flag	flag
 flagship	flagxip
 flame	flaʸm
+flamingo	flamiŋgó
 flammable	flamabel
+flap	flap
 flash	flax
 flashback	flaxbak
 flashlight	flaxliʸt
@@ -2578,8 +2754,10 @@ flew	fluʷ
 flexibility	fleksibilité
 flexible	fleksibel
 flight	fliʸt
+fling	fliŋ
 flint	flint
 float	floʷt
+flock	flok
 flood	flud
 floodgate	fludgaʸt
 floor	floʷr
@@ -2592,6 +2770,10 @@ flower	flqʷr
 flown	floʷn
 flu	fluʷ
 fluid	flúid
+flung	fluŋ
+flurry	fluré
+fluster	fluster
+flutter	fluter
 fly	fliʸ
 focus	fókus
 fold	foʷld
@@ -2622,6 +2804,7 @@ forcible	forsibel
 forecast	foʷrkast
 forehead	foʷrhed
 foreign	foran
+forepaws	foʷrpåz
 forest	forest
 forestry	forestré
 forever	forever
@@ -2676,6 +2859,7 @@ fragment	fragment
 fragmentation	fragmentásion
 frame	fraʸm
 framework	fraʸmwurk
+france	frans
 franchise	francíz
 frank	fraŋk
 fraud	fråd
@@ -2685,6 +2869,7 @@ free	freʸ
 freedom	freʸdom
 freeway	freʸwaʸ
 freeze	freʸz
+french	frenc
 frequency	frékwensé
 frequent	frékwent
 fresh	frex
@@ -2702,7 +2887,9 @@ frog	frog
 from	from
 front	frunt
 frontal	fruntal
+frontispiece	fruntispés
 frost	frost
+frown	frqʷn
 froze	froʷz
 frozen	froʷzen
 fruit	fruʷt
@@ -2711,12 +2898,14 @@ fruition	frúision
 frustrate	frustrát
 frustration	frustrásion
 fry	friʸ
+fuck	fuk
 fuel	fuʷl
 fulfil	fqlfil
 fulfill	fqlfil
 fulfillment	fqlfilment
 fulfilment	fqlfilment
 full	fql
+fumble	fumbel
 fume	fuʷm
 fun	fun
 function	fuŋksion
@@ -2734,8 +2923,10 @@ furious	fúrios
 furnace	furnas
 furnish	furnix
 furniture	furnitúr
+furrow	furó
 further	furðer
 furthermore	furðermoʷr
+fury	fúré
 fusion	fúzion
 future	fútúr
 futurist	fútúrist
@@ -2747,6 +2938,7 @@ game	gaʸm
 gang	gaŋ
 gap	gap
 garage	garaj
+garbage	garbaj
 garden	garden
 gas	gas
 gaseous	gasios
@@ -2758,6 +2950,7 @@ gave	gaʸv
 gay	gaʸ
 gaze	gaʸz
 gear	geʸr
+geese	geʸs
 gender	jender
 gene	jeʸn
 genealogical	jénéalojikal
@@ -2782,6 +2975,7 @@ genocide	jenosíd
 genre	zjanra
 gentle	jentel
 gentleman	jentelman
+gently	jentlé
 genuine	jenúin
 geographic	jéografik
 geographical	jéografikal
@@ -2794,6 +2988,7 @@ gesture	jestúr
 get	get
 ghost	goʷst
 giant	jíant
+giddy	gidé
 gift	gift
 gig	gig
 gill	gil
@@ -2807,6 +3002,7 @@ gladden	gladen
 glance	glans
 gland	gland
 glandular	glandúlar
+glare	glaʸr
 glass	glas
 glimpse	glims
 global	glóbal
@@ -2815,6 +3011,8 @@ globalization	glóbalizásion
 globalize	glóbalíz
 globe	gloʷb
 globular	globúlar
+gloom	glq̇m
+gloomy	glq̇mé
 glorify	glórifí
 glorious	glórios
 glory	glóré
@@ -2825,10 +3023,12 @@ goat	goʷt
 god	god
 gold	goʷld
 golden	goʷlden
+goldfish	goʷldfix
 golf	golf
 gone	gon
 good	gqd
 goodbye	gqdbí
+goose	gq̇s
 gorgeous	gorjos
 got	got
 govern	guvern
@@ -2862,6 +3062,8 @@ grateful	graʸtfql
 grave	graʸv
 gravel	gravel
 gravity	gravité
+gravy	grávé
+graze	graʸz
 grease	greʸs
 greasy	greʸsé
 great	graʸt
@@ -2885,8 +3087,12 @@ ground	grqʷnd
 groundbreak	grqʷndbraʸk
 group	grq̇p
 grow	groʷ
+growl	grqʷl
 grown	groʷn
 growth	groʷþ
+grumble	grumbel
+grunt	grunt
+gryphon	grifon
 guarantee	garanté
 guard	gard
 guerrilla	gerila
@@ -2900,6 +3106,7 @@ guidebook	giʸdbqk
 guideline	giʸdliʸn
 guilt	gilt
 guilty	gilté
+guinea	giné
 guitar	gitar
 guitarist	gitarist
 gum	gum
@@ -2942,6 +3149,9 @@ handheld	handheld
 handhold	handhoʷld
 handkerchief	haŋkercef
 handle	handel
+handsome	handsum
+handwrite	handriʸt
+handwritten	handriten
 handy	handé
 hang	haŋ
 happen	happen
@@ -2952,6 +3162,7 @@ harbour	harbor
 hard	hard
 hardship	hardxip
 hardware	hardwaʸr
+hare	haʸr
 harm	harm
 harmful	harmfql
 harmonic	harmonik
@@ -2964,7 +3175,10 @@ harsh	harx
 harvest	harvest
 has	haz
 hasn't	haznt
+haste	haʸst
+hasty	haʸsté
 hat	hat
+hatch	hac
 hate	haʸt
 hateful	haʸtfql
 hatred	hátred
@@ -2984,6 +3198,7 @@ heal	heʸl
 health	helþ
 healthcare	helþkaʸr
 healthy	helþé
+heap	heʸp
 hear	heʸr
 heard	herd
 hearsay	heʸrsaʸ
@@ -2991,6 +3206,8 @@ heart	hart
 heartbeat	hartbeʸt
 heartbreak	hartbraʸk
 heartbroken	hartbroʷken
+hearth	harþ
+hearthrug	harþrug
 hearty	harté
 heat	heʸt
 heaven	heven
@@ -2998,6 +3215,7 @@ heavy	hevé
 heavyweight	hevéʷaʸt
 he'd	heʸd
 hedge	hej
+hedgehog	hejhog
 heel	heʸl
 height	hiʸt
 heighten	hiʸten
@@ -3012,6 +3230,7 @@ helpful	helpfql
 hence	hens
 henceforth	hensfoʷrþ
 her	her
+herald	herald
 herb	herb
 herbal	herbal
 here	heʸr
@@ -3050,6 +3269,7 @@ himself	himself
 hinge	hinj
 hint	hint
 hip	hip
+hippopotamus	hopopotamus
 hire	hiʸr
 his	hiz
 hiss	his
@@ -3058,6 +3278,7 @@ historic	historik
 historical	historikal
 history	historé
 hit	hit
+hoarse	hoʷrs
 hobby	hobé
 hobbyist	hobéist
 hockey	hoké
@@ -3087,6 +3308,7 @@ honorific	onorifik
 honour	onor
 hoof	hqf
 hook	hqk
+hookah	hq̇ka
 hope	hoʷp
 hopeful	hoʷpfql
 horizon	horízon
@@ -3114,14 +3336,18 @@ hostility	hostilité
 hot	hot
 hotel	hótel
 hour	qʷr
-house	hqʷs
+house n	hqʷs
 house v	hqʷz
 houseboat	hqʷsboʷt
+housed	hqʷzd
 household	hqʷshoʷld
 housekeep	hqʷskeʸkp
+housemaid	hqʷsmaʸd
 houses	hqʷzez
+housing	hqʷziŋ
 how	hqʷ
 however	hqʷever
+howl	hqʷl
 huge	huʷj
 human	húman
 humane	húmán
@@ -3145,6 +3371,7 @@ hurry	huré
 hurt	hurt
 hurtful	hurtfql
 husband	huzband
+hush	hux
 hydrogen	hídrojen
 hyena	híéna
 hygiene	híjén
@@ -3198,6 +3425,8 @@ imaginary	imajinaré
 imagination	imajinásion
 imaginative	imajinativ
 imagine	imajin
+imitate	imitát
+imitation	imitásion
 immediate	imédiat
 immense	imens
 immigrant	imigrant
@@ -3219,6 +3448,7 @@ imperfection	imperfeksion
 imperial	impérial
 imperialism	impérializem
 imperialist	impérialist
+impertinent	impertinent
 implement	implement
 implementation	implementásion
 implication	implikásion
@@ -3246,6 +3476,7 @@ inappropriate	inaprópriat
 inasmuch	inazmuc
 incentive	insentiv
 incentivize	insentivíz
+incessant	insesant
 inch	inc
 incidence	insidens
 incident	insident
@@ -3272,6 +3503,7 @@ indices	indiséz
 indict	indít
 indictment	indítment
 indigenous	indijenos
+indignant	indignant
 indirect	indirekt
 individual	individúal
 individualism	individúalizem
@@ -3290,6 +3522,7 @@ industry	industré
 inequality	inekwolité
 inevitability	inevitabilité
 inevitable	inevitabel
+inexcusable	inekskúzabel
 inexpensive	inekspensiv
 inexperience	inekspériens
 infamous	infamos
@@ -3347,6 +3580,7 @@ injure	injúr
 injury	injúré
 injustice	injustis
 ink	iŋk
+inkstand	iŋkstand
 inland	inland
 inlet	inlet
 inmate	inmát
@@ -3362,6 +3596,7 @@ innovator	inovátor
 input	inpqt
 inquire	inkwír
 inquiry	inkwiré
+inquisitive	inkwizitiv
 insect	insekt
 insecticide	insektisíd
 insectivore	insektivór
@@ -3376,6 +3611,7 @@ insight	insiʸt
 insightful	insiʸtfql
 insist	insist
 insistence	insistens
+insolence	insolens
 inspect	inspekt
 inspection	inspeksion
 inspector	inspektor
@@ -3407,7 +3643,7 @@ instrumental	instrúmental
 instrumentation	instrúmentásion
 insufficient	insufisient
 insulate	insulát
-insulation	insúlásion
+insulation	insulásion
 insulator	insulátor
 insult	insult
 insurance	inxúrans
@@ -3461,8 +3697,11 @@ intervention	intervension
 interview	intervú
 interviewee	intervúé
 intestine	intestin
-intimate	intimat
-intimate 2	intimát
+intimate adj	intimat
+intimate v	intimát
+intimated	intimáted
+intimately	intimatlé
+intimating	intimátiŋ
 intimation	intimásion
 into	intq̇
 intro	intró
@@ -3496,6 +3735,7 @@ invoke	invók
 involuntary	involuntaré
 involve	involv
 involvement	involvment
+inward	inword
 iron	íarn
 ironic	íronik
 irony	íroné
@@ -3525,10 +3765,12 @@ its	its
 it's	its
 itself	itself
 i've	iʸv
+jack	jak
 jacket	jaket
 jail	jaʸl
 jam	jam
 january	janúaré
+jar	jar
 jaw	jå
 jawbone	jåboʷn
 jazz	jaz
@@ -3542,6 +3784,7 @@ jet	jet
 jewel	júel
 jewellery	júeleré
 job	job
+jog	jog
 join	joʸn
 joint	joʸnt
 joke	joʷk
@@ -3569,6 +3812,7 @@ june	juʷn
 junior	júnior
 jurisdiction	júrisdiksion
 jurisdictional	júrisdiksional
+juror	júror
 jury	júré
 just	just
 justice	justis
@@ -3596,8 +3840,10 @@ kiss	kis
 kit	kit
 kitchen	kicen
 kitchenette	kicenet
+knave	naʸv
 knee	neʸ
 kneecap	neʸkap
+kneel	neʸl
 knelt	nelt
 knew	nuʷ
 knife	niʸf
@@ -3608,12 +3854,14 @@ knot	not
 know	noʷ
 knowledge	nolej
 known	noʷn
+knuckle	nukel
 lab	lab
 label	lábel
 labor	lábor
 laboratory	laboratoré
 labour	lábor
 lace	laʸs
+lacie	lásé
 lack	lak
 lad	lad
 ladder	lader
@@ -3631,12 +3879,15 @@ landscape	landskaʸp
 landslip	landslip
 lane	laʸn
 language	laŋgwaj
+languid	laŋgwid
 lap	lap
 laptop	laptop
 large	larj
+lark	lark
 laser	lázer
 last	last
 late	laʸt
+latin	latin
 latitude	latitúd
 latter	later
 laugh	laf
@@ -3652,8 +3903,9 @@ layer	laʸer
 layout	laʸqʷt
 laze	laʸz
 lazy	laʸzé
-lead	led
+lead n	led
 lead v	leʸd
+leaded	leded
 leader	leʸder
 leadership	leʸderxip
 leaf	leʸf
@@ -3671,7 +3923,10 @@ least	leʸst
 leather	leðer
 leave	leʸv
 lecture	lektúr
+led	led
+ledge	lej
 left	left
+lefthand	lefthand
 leg	leg
 legacy	legasé
 legal	légal
@@ -3703,6 +3958,7 @@ lesbian	lezbian
 less	les
 lessen	lesen
 lesson	leson
+lest	lest
 let	let
 lethal	léþal
 let's	lets
@@ -3724,6 +3980,7 @@ licence	lísens
 licencee	lísensé
 license	lísens
 licensee	lísensé
+lick	lik
 lid	lid
 lie	liʸ
 life	liʸf
@@ -3786,15 +4043,20 @@ literature	literatúr
 litre	léter
 litter	liter
 little	litel
-live	liʸv
+live adj	liʸv
 live v	liv
+lived	livd
 livelihood	liʸvléhqd
+lively	liʸvlé
 liven	liʸven
 liver	liver
+livery	liveré
+lizard	lizard
 load	loʷd
 loan	loʷn
 lobby	lobé
 lobbyist	lobéist
+lobster	lobster
 local	lókal
 locale	lókal
 localise	lókalíz
@@ -3806,11 +4068,13 @@ location	lókásion
 locator	lókátor
 lock	lok
 locus	lókus
+lodge	loj
 log	log
 logic	lojik
 logical	lojikal
 logistic	lojistik
 logo	lógó
+london	lundon
 lone	loʷn
 lonely	loʷnlé
 long	loŋ
@@ -3830,6 +4094,7 @@ loosen	lq̇sen
 lord	lord
 lordship	lordxip
 lorry	loré
+lory	loré
 lose	lq̇z
 loss	los
 lost	lost
@@ -3844,6 +4109,7 @@ loyalist	loʸalist
 loyalty	loʸalté
 luck	luk
 lucky	luké
+lullaby	lulabí
 lump	lump
 lumpy	lumpé
 lunch	lunc
@@ -3854,6 +4120,9 @@ luxurious	luksúrios
 luxury	lugzúré
 lyric	lirik
 lyrical	lirikal
+ma	ma
+ma'am	mam
+mabel	mábel
 machine	maxén
 machinery	maxéneré
 mad	mad
@@ -3870,12 +4139,14 @@ magnetism	magnetizem
 magnetize	magnetíz
 magnificent	magnifisent
 magnitude	magnitúd
+magpie	magpí
 mail	maʸl
 main	maʸn
 mainland	maʸnland
 mainstream	maʸnstreʸm
 maintain	mántán
 maintenance	mántenans
+majesty	majesté
 major	májor
 majority	majorité
 make	maʸk
@@ -3883,6 +4154,7 @@ makeup	maʸkup
 malaria	malária
 male	maʸl
 mall	mål
+mallet	malet
 man	man
 manage	manaj
 management	manajment
@@ -3917,15 +4189,19 @@ mark	mark
 marker	marker
 market	market
 marketplace	marketplaʸs
+marmalade	marmalád
 marriage	maraj
 marry	maré
 martial	marsial
+mary	máré
 mask	mask
 mass	mas
 massacre	masaker
 massive	masiv
 mast	mast
 master	master
+masturbate	masturbát
+masturbation	masturbásion
 match	mac
 mate	maʸt
 material	matérial
@@ -3947,6 +4223,7 @@ maximize	maksimíz
 maximum	maksimum
 may	maʸ
 maybe	maʸbeʸ
+mayn't	maʸnt
 mayor	máor
 mayorial	máórial
 me	meʸ
@@ -3983,14 +4260,17 @@ medieval	medéval
 meditate	meditát
 meditation	meditásion
 medium	médium
+meek	meʸk
 meet	meʸt
 meetup	meʸtup
+melancholy	melankolé
 melody	melodé
 melt	melt
 member	member
 membership	meberxip
 memo	memó
 memoir	memwar
+memorandum	memorandum
 memorial	memórial
 memorise	memoríz
 memorize	memoríz
@@ -4003,10 +4283,12 @@ mentor	mentor
 menu	menú
 meow	méqʷ
 merchant	mercant
+mercia	mersia
 mercy	mersé
 mere	meʸr
 merge	merj
 merit	merit
+merry	meré
 mess	mes
 message	mesaj
 messenger	mesenjer
@@ -4066,11 +4348,13 @@ ministerial	ministérial
 ministry	ministré
 minor	mínor
 minority	mínorité
-minute	minut
 minute adj	mínút
+minute n	minut
+minutes	minuts
 miracle	mirakel
 miraculous	mirakúlos
 mirror	miror
+mischief	miscéf
 miserable	mizerabel
 misery	mizeré
 miss	mis
@@ -4089,10 +4373,13 @@ mobilise	móbilíz
 mobility	móbilité
 mobilization	móbilizásion
 mobilize	móbilíz
+mock	mok
 mode	moʷd
 model	model
-moderate	moderat
+moderate adj	moderat
 moderate v	moderát
+moderated	moderáted
+moderating	moderátiŋ
 modern	modern
 modernise	moderníz
 modernism	modernizem
@@ -4128,12 +4415,16 @@ moon	mq̇n
 moral	moral
 morale	moral
 morality	moralité
+morcar	morkar
 more	moʷr
 moreover	moʷróver
+morning	morniŋ
+morsel	morsel
 mortgage	morgaj
 mosque	mosk
 most	moʷst
 mother	muðer
+motherfuck	muðerfuk
 motherhood	muðerhqd
 motion	mósion
 motivate	mótivát
@@ -4147,9 +4438,11 @@ mount	mqʷnt
 mountain	mq́ntan
 mountaineer	mq́ntanér
 mountainous	mq̇ntanos
+mournful	moʷrnfql
 mouse	mqʷs
 moustache	mustax
 mouth	mqʷþ
+mouthed	mqʷðd
 mouths	mqʷðz
 move	mq̇v
 movement	mq̇vment
@@ -4157,6 +4450,7 @@ movie	mq̇vé
 mown	moʷn
 much	muc
 mud	mud
+muddle	mudel
 multiple	multipel
 multiplication	multiplikásion
 multiplicity	multiplisité
@@ -4167,12 +4461,16 @@ municipality	múnisipalité
 murder	murder
 murderous	murderos
 muscle	musel
+muscular	muskúlar
 museum	múzéum
+mushroom	muxrq̇m
 music	múzik
 musical	múzikal
 musician	múzisian
 must	must
+mustard	mustard
 mustn't	musnt
+mutter	muter
 mutual	mútúal
 my	miʸ
 myself	miʸself
@@ -4192,13 +4490,13 @@ narrator	narátor
 narrow	naró
 nasty	nasté
 nation	násion
-national	national
-nationalise	nationalíz
-nationalism	nationalizem
-nationalist	nationalist
-nationality	nationalité
-nationalization	nationalizásion
-nationalize	nationalíz
+national	nasional
+nationalise	nasionalíz
+nationalism	nasionalizem
+nationalist	nasionalist
+nationality	nasionalité
+nationalization	nasionalizásion
+nationalize	nasionalíz
 nationwide	násionwiʸd
 native	nátiv
 natural	natúral
@@ -4214,6 +4512,7 @@ navigate	navigát
 navigation	navigásion
 navigator	navigátor
 navy	návé
+nay	naʸ
 near	neʸr
 nearby	neʸrbiʸ
 neat	neʸt
@@ -4258,6 +4557,7 @@ new	nuʷ
 newsletter	nuʷzleter
 newspaper	nuʷzpáper
 next	nekst
+nibble	nibel
 nice	niʸs
 nicety	niʸseté
 niche	nic
@@ -4265,6 +4565,7 @@ nickel	nikel
 nicotine	nikotén
 night	niʸt
 nightmare	niʸtmaʸr
+nile	niʸl
 nine	niʸn
 nineteen	niʸnteʸn
 nineteenth	niʸnteʸnþ
@@ -4292,8 +4593,10 @@ normal	normal
 normalise	normalíz
 normalization	normalizásion
 normalize	normalíz
+norman	norman
 north	norþ
 northern	norðern
+northumbria	norþumbria
 nose	noʷz
 nostril	nostril
 not	not
@@ -4342,6 +4645,7 @@ obligate	obligát
 obligation	obligásion
 obligatory	obligatoré
 oblige	oblíj
+oblong	obloŋ
 observance	obzervans
 observation	obzervásion
 observational	obzervásional
@@ -4382,6 +4686,7 @@ often	ofen
 oftentime	ofentiʸm
 oh	ó
 oil	oʸl
+ointment	oʸntment
 ok	ókaʸ
 old	oʷld
 olive	oliv
@@ -4394,6 +4699,7 @@ online	onliʸn
 onlooker	onlqker
 only	oʷnlé
 onto	ontq̇
+oops	q̇ps
 open	ópen
 opera	opera
 operate	operát
@@ -4488,12 +4794,14 @@ over	óver
 overall	óverål
 overwhelm	óverhwelm
 owe	oʷ
+owl	qʷl
 own	oʷn
 ownership	oʷnerxip
 oxidation	oksidásion
 oxidise	oksídíz
 oxidize	oksídíz
 oxygen	oksijen
+oyster	oʸster
 pace	paʸs
 pack	pak
 package	pakaj
@@ -4512,6 +4820,8 @@ pan	pan
 panel	panel
 panellist	panelist
 panic	panik
+pant	pant
+panther	panþer
 paper	páper
 paperback	páperbak
 paperclip	páperklip
@@ -4522,8 +4832,11 @@ paragraph	paragraf
 parallel	paralel
 parameter	parameter
 parcel	parsel
+parchment	parcment
+pardon	pardon
 parent	párent
 parental	parental
+paris	paris
 parish	parix
 parishioner	parisioner
 park	park
@@ -4554,6 +4867,7 @@ password	paswurd
 past	past
 paste	paʸst
 pastor	pastor
+pat	pat
 patch	pac
 patent	patent
 path	paþ
@@ -4561,13 +4875,16 @@ paths	paðz
 pathway	paþwaʸ
 patience	pásiens
 patient	pásient
+patriotic	pátriotik
 patrol	patról
 patron	pátron
 patronage	pátronaj
 patronise	pátroníz
 patronize	pátroníz
+patter	pater
 pattern	patern
 pause	påz
+paw	på
 pay	paʸ
 paycheck	paʸcek
 payday	paʸdaʸ
@@ -4579,11 +4896,14 @@ peacemake	peʸsmaʸk
 peacetime	peʸstiʸm
 peak	peʸk
 peasant	pezant
+pebble	pebel
 peculiar	pekúliar
 peculiarity	pekúliarité
 pedal	pedal
+peep	peʸp
 peer	peʸr
 peerage	peʸraj
+peg	peg
 pen	pen
 penal	pénal
 penalise	penalíz
@@ -4593,7 +4913,10 @@ pence	pens
 pencil	pensil
 pendulum	pendúlum
 penguin	peŋgwin
+penile	péníl
+penis	pénis
 penny	pené
+pennyworth	penéwurþ
 pension	pension
 pensioner	pensioner
 people	pépel
@@ -4665,20 +4988,26 @@ piano	pianó
 pick	pik
 picture	piktúr
 picturesque	piktúresk
+pie	piʸ
 piece	peʸs
 pig	pig
+pigeon	pijon
 pile	piʸl
 pill	pil
 pilot	pílot
 pin	pin
+pinch	pinc
+pine	piʸn
 pink	piŋk
 pioneer	píonér
 pipe	piʸp
 pipeline	piʸpliʸn
 pirate	pírat
+piss	pis
 piston	piston
 pit	pit
 pitch	pic
+piteous	pitéos
 pity	pité
 place	plaʸs
 placement	plaʸsment
@@ -4715,6 +5044,8 @@ poetry	póetré
 point	poʸnt
 poison	poʸzon
 poisonous	poʸzonos
+poke	poʷk
+poky	poʷké
 pole	poʷl
 police	polés
 policeman	polésman
@@ -4736,6 +5067,7 @@ pond	pond
 pool	pq̇l
 poor	pq̇r
 pop	pop
+pope	poʷp
 populace	popúlas
 popular	popúlar
 popularise	popúlaríz
@@ -4744,6 +5076,7 @@ popularize	popúlaríz
 populate	popúlát
 population	popúlásion
 porcelain	porselan
+porpoise	porpos
 port	poʷrt
 porter	porter
 portfolio	portfólió
@@ -4839,6 +5172,7 @@ pretend	pretend
 pretense	prétens
 pretension	pretension
 pretentious	pretensios
+pretext	prétekst
 pretty	prité
 prevail	prevál
 prevalence	prevalens
@@ -4883,6 +5217,7 @@ procedural	prosédúral
 procedure	prosédúr
 proceed	proséd
 process	próses
+procession	prosesion
 processor	prósesor
 proclaim	proklám
 proclamation	proklamásion
@@ -4966,6 +5301,10 @@ psychological	síkolojikal
 psychologist	síkolojist
 psychology	síkolojé
 pub	pub
+pube	puʷb
+puberty	púberté
+pubescent	púbesent
+pubic	puʷbik
 public	publik
 publication	publikásion
 publicise	publisíz
@@ -4973,15 +5312,18 @@ publicist	publisist
 publicity	publisité
 publicize	publisíz
 publish	publix
+puff	puf
 pull	pql
 pulley	pqlé
 pulse	puls
 pump	pump
+pun	pun
 punch	punc
 punish	punix
 punishment	punixment
 punk	puŋk
 pupil	púpil
+puppy	pupé
 purchase	purcas
 pure	puʷr
 purification	púrifikásion
@@ -4995,19 +5337,23 @@ purr	pur
 pursuant	pursúant
 pursue	pursú
 pursuit	pursút
+pus	pus
 push	pqx
 put	pqt
 puzzle	puzel
 pyramid	piramid
 quack	kwak
+quadrille	kwodril
 qualification	kwolifikásion
 qualify	kwolifí
 qualitative	kwolitátiv
 quality	kwolité
 quantitative	kwontitátiv
 quantity	kwontité
+quarrel	kworel
 quarter	kworter
 queen	kweʸn
+queer	kweʸr
 query	kwéré
 quest	kwest
 question	kwestion
@@ -5017,9 +5363,11 @@ quick	kwik
 quiet	kwíet
 quit	kwit
 quite	kwiʸt
+quiver	kwiver
 quota	kwóta
 quotation	kwótásion
 quote	kwoʷt
+rabbit	rabit
 race	raʸs
 racial	rásial
 racism	raʸsizem
@@ -5053,6 +5401,7 @@ randomize	randomíz
 rang	raŋ
 range	raʸnj
 rank	raŋk
+rap	rap
 rape	raʸp
 rapid	rapid
 rare	raʸr
@@ -5063,6 +5412,9 @@ rather	raðer
 ratio	rásio
 ration	rasion
 rational	rasional
+rattle	ratel
+rave	raʸv
+raven	ráven
 raw	rå
 ray	raʸ
 reach	reʸc
@@ -5072,10 +5424,12 @@ reaction	réaksion
 reactionary	réaksionaré
 reactive	réaktiv
 reactor	réaktor
-read	reʸd
 read (past)	red
+read (pres)	reʸd
 reader	reʸder
 readership	reʸderxip
+reading	reʸdiŋ
+reads	reʸdz
 ready	redé
 reagent	réájent
 real	réal
@@ -5122,8 +5476,10 @@ recommendation	rekomendásion
 reconstruct	rékonstrukt
 reconstruction	rékonstruksion
 record	rekord
-recount	rékqʷnt
+recount n	rékqʷnt
 recount v	rekqʷnt
+recounted	rekqʷnted
+recounting	rekqʷntiŋ
 recover	rekuver
 recovery	rekuveré
 recruit	rekrút
@@ -5134,6 +5490,8 @@ recycle	resíkel
 red	red
 reduce	redús
 reduction	reduksion
+reed	reʸd
+reel	reʸl
 refer	refer
 referee	referé
 reference	referens
@@ -5147,6 +5505,8 @@ reflector	reflektor
 reflux	réfluks
 reform	reform
 reformation	reformásion
+refresh	refrex
+refreshment	refrexment
 refuge	refúj
 refugee	refújé
 refusal	refúzal
@@ -5173,8 +5533,10 @@ rehabilitation	réhabilitásion
 reign	raʸn
 reinforce	réinfórs
 reinforcement	réinfórsment
-reject	réjekt
+reject n	réjekt
 reject v	rejekt
+rejected	rejekted
+rejecting	rejektiŋ
 rejection	rejeksion
 relate	relát
 relation	relásion
@@ -5233,9 +5595,11 @@ requirement	rekwírment
 requisite	rekwizit
 requisition	rekwizision
 rescue	reskú
-research	réserc
+research n	réserc
 research v	reserc
+researched	reserct
 researcher	resercer
+researching	reserciŋ
 resemblance	rezemblans
 resemble	rezembel
 reservation	rezervásion
@@ -5276,8 +5640,10 @@ restriction	restriksion
 restrictive	restriktiv
 result	rezult
 resultant	rezultant
-resume	rezúm
-resume 2	rezúmaʸ
+resume m	rezúmaʸ
+resume v	rezúm
+resumed	rezúmd
+resuming	rezúmiŋ
 resumption	rezumsion
 retail	rétál
 retain	retán
@@ -5316,16 +5682,21 @@ rice	riʸs
 rich	ric
 rid	rid
 ridden	riden
+riddle	ridel
 ride	riʸd
+ridge	rij
 ridicule	ridikúl
 ridiculous	ridikúlos
 rifle	rífel
 right	riʸt
+righthand	riʸthand
 rigid	rijid
 rigidity	rijidité
 ring	riŋ
+ringlet	riŋlet
 riot	ríot
 rip	rip
+ripple	ripel
 rise	riʸz
 risen	rizen
 risk	risk
@@ -5338,6 +5709,8 @@ road	roʷd
 roadie	roʷdé
 roadway	roʷdwaʸ
 roadwork	roʷdwurk
+roar	roʷr
+roast	roʷst
 rob	rob
 robbery	roberé
 robot	róbot
@@ -5351,6 +5724,7 @@ role	roʷl
 roll	roʷl
 romance	rómans
 romantic	rómantik
+rome	roʷm
 roof	rq̇f
 room	rq̇m
 root	rq̇t
@@ -5365,8 +5739,10 @@ roughen	rufen
 round	rqʷnd
 route	rq̇t
 routine	rq̇tén
-row	rqʷ
+row n	rqʷ
 row v	roʷ
+rowed	roʷd
+rowing	roʷiŋ
 royal	roʸal
 royalty	roʸalté
 rub	rub
@@ -5376,6 +5752,7 @@ rude	ruʷd
 rugby	rugbé
 ruin	rúin
 rule	ruʷl
+rumble	rumbel
 rumor	rúmor
 rumour	rúmor
 run	run
@@ -5383,6 +5760,7 @@ runaway	runawaʸ
 rural	rúral
 rush	rux
 rust	rust
+rustle	rusel
 sac	sak
 sack	sak
 sacred	sákred
@@ -5390,6 +5768,7 @@ sacrifice	sakrifís
 sad	sad
 safe	saʸf
 safety	saʸfté
+sage	saʸj
 said	saʸd
 sail	saʸl
 sailor	saʸlor
@@ -5398,6 +5777,7 @@ sake	saʸk
 salad	salad
 salary	salaré
 sale	saʸl
+salmon	samon
 salt	solt
 same	saʸm
 sample	sampel
@@ -5416,11 +5796,14 @@ satisfactory	satisfaktoré
 satisfy	satisfí
 saturday	saturdaʸ
 sauce	sås
+saucepan	såspan
+savage	savaj
 save	saʸv
 saw	så
 sawn	sån
 say	saʸ
 scale	skaʸl
+scaly	skaʸlé
 scan	skan
 scandal	skandal
 scandalise	skandalíz
@@ -5444,11 +5827,14 @@ scholarship	skolarxip
 scholastic	skolastik
 school	skq̇l
 schoolbook	skq̇lbqk
+schoolroom	skq̇lrq̇m
 science	síens
 scientific	síentifik
 scientist	síentist
+scold	skoʷld
 scope	skoʷp
 score	skoʷr
+scramble	skrambel
 scratch	skrac
 scream	skreʸm
 screen	skreʸn
@@ -5456,16 +5842,22 @@ screw	skruʷ
 script	skript
 scriptural	skriptúral
 scripture	skriptúr
+scroll	skroʷl
+scrotal	skrótal
+scrotum	skrótum
 scrutinise	skrútiníz
 scrutinize	skrútiníz
 scrutiny	skrútiné
 sculpt	skulpt
 sculptor	skulptor
 sculpture	skulptúr
+scurry	skuré
 sea	seʸ
 seal	seʸl
 seaman	seʸman
+seaography	seʸografé
 search	serc
+seaside	seʸsiʸd
 season	sézon
 seat	seʸt
 second	sekond
@@ -5491,7 +5883,7 @@ seen	seʸn
 segment	segment
 segmentation	segmentásion
 seize	seʸz
-seizure	sezúr
+seizure	sézúr
 seldom	seldom
 select	selekt
 selection	seleksion
@@ -5500,6 +5892,8 @@ selector	selektor
 self	self
 selfish	selfix
 sell	sel
+semen	sémen
+seminal	seminal
 seminar	seminar
 seminary	seminaré
 senate	senat
@@ -5524,8 +5918,11 @@ sentence	sentens
 sentient	sensient
 sentiment	sentiment
 sentimental	sentimental
-separate	separat
+separate adj	separat
 separate v	separát
+separated	separáted
+separately	separatlé
+separating	separátiŋ
 separation	separásion
 separatist	separatist
 separator	separátor
@@ -5535,6 +5932,7 @@ sequential	sekwensial
 serial	sérial
 series	séréz
 serious	sérios
+serpent	serpet
 serum	sérum
 servant	servant
 serve	serv
@@ -5550,6 +5948,7 @@ seventh	sevenþ
 seventy	seventé
 several	several
 severe	sevér
+severity	severité
 sewn	soʷn
 sex	seks
 sexual	seksúal
@@ -5560,6 +5959,7 @@ shadow	xadó
 shadowy	xadóé
 shake	xaʸk
 shaken	xaʸken
+shakespeare	xákspér
 shaky	xaʸké
 shale	xaʸl
 shall	xal
@@ -5571,6 +5971,7 @@ shan't	xant
 shape	xaʸp
 share	xaʸr
 shareholder	xaʸrhoʷlder
+shark	xark
 sharp	xarp
 shatter	xater
 shave	xaʸv
@@ -5585,12 +5986,18 @@ shelf	xelf
 shell	xel
 she'll	xeʸl
 shelter	xelter
+shepherd	xepherd
 she's	xeʸz
 shift	xift
+shill	xil
 shine	xiʸn
+shingle	xiŋgel
 shiny	xiʸné
 ship	xip
 shirt	xirt
+shit	xit
+shitty	xité
+shiver	xiver
 shock	xok
 shoe	xuʷ
 shone	xon
@@ -5610,6 +6017,9 @@ show	xoʷ
 shower	xqʷr
 shown	xoʷn
 shrank	xraŋk
+shriek	xreʸk
+shrill	xril
+shrimp	xrimp
 shrink	xriŋk
 shrug	xrug
 shrunk	xruŋk
@@ -5640,6 +6050,7 @@ silver	silver
 similar	similar
 similarity	similarité
 simple	simpel
+simpleton	simpelton
 simplicity	simplisité
 simplification	simplifikásion
 simplify	simplifí
@@ -5663,6 +6074,7 @@ situate	sitúát
 situation	sitúásion
 situational	sitúásional
 six	siks
+sixpence	sikspens
 sixteen	siksteʸn
 sixteenth	siksteʸnþ
 sixth	siksþ
@@ -5673,11 +6085,13 @@ skepticism	skeptisizem
 sketch	skec
 ski	skeʸ
 skill	skil
+skim	skim
 skin	skin
 skinny	skiné
 skip	skip
 skirt	skirt
 skull	skul
+skurry	skuré
 sky	skiʸ
 slam	slam
 slap	slap
@@ -5686,6 +6100,7 @@ slate	slaʸt
 slave	slaʸv
 slavery	sláveré
 sleep	sleʸp
+sleepy	sleʸpé
 sleeve	sleʸv
 slept	slept
 slice	sliʸs
@@ -5708,9 +6123,14 @@ smoke	smoʷk
 smoky	smoʷké
 smooth	smq̇ð
 smoothie	smq̇ðé
+snail	snaʸl
 snake	snaʸk
 snap	snap
+snappish	snapix
+snatch	snac
 sneeze	sneʸz
+snort	snort
+snout	snqʷt
 snow	snoʷ
 snowball	snoʷbål
 snowfall	snoʷfål
@@ -5721,6 +6141,7 @@ so	soʷ
 soak	soʷk
 soap	snoʷp
 soar	soʷr
+sob	sob
 soccer	soker
 social	sósial
 socialise	sósialíz
@@ -5740,6 +6161,7 @@ solar	sólar
 sold	soʷld
 soldier	sóldier
 sole	soʷl
+solemn	solem
 solicit	solisit
 solicitation	solisitásion
 solicitor	solisitor
@@ -5758,6 +6180,7 @@ someday	sumdaʸ
 somehow	sumhqʷ
 someone	sumwun
 someplace	sumplaʸs
+somersault	sumersålt
 something	sumþiŋ
 sometime	sumtiʸm
 somewhat	sumhwot
@@ -5765,21 +6188,26 @@ somewhere	sumhwaʸr
 son	sun
 song	soŋ
 soon	sq̇n
+soothe	sq̇ð
 sophisticate	sofistikát
 sophistication	sofistikásion
 sorrow	soró
+sorrowful	sorófql
 sorry	soré
 sort	sort
 soul	soʷl
 sound	sqʷnd
 soup	sq̇p
+sour	sqʷr
 source	soʷrs
 south	sqʷþ
 southern	suðern
 sovereign	soveran
 sovereignty	soveranté
-sow	soʷ
-sow 2	sqʷ
+sow n	sqʷ
+sow v	soʷ
+sowed	soʷd
+sowing	soʷiŋ
 sown	soʷn
 space	spaʸs
 spade	spaʸd
@@ -5831,6 +6259,7 @@ spirituality	spiritúalité
 spit	spit
 spite	spiʸt
 splash	splax
+splendid	splendid
 split	split
 spoil	spoʸl
 spoken	spoʷken
@@ -5846,11 +6275,13 @@ sport	spoʷrt
 spot	spot
 spotlight	spotliʸt
 spouse	spqʷs
+sprawl	språl
 spread	spred
 spring	spriŋ
 spy	spiʸ
 squad	skwod
 square	skwaʸr
+squeak	skweʸk
 squeeze	skweʸz
 stab	stab
 stabilise	stábilíz
@@ -5880,6 +6311,7 @@ star	star
 stare	staʸr
 stark	stark
 start	start
+startle	startel
 starvation	starvásion
 starve	starv
 state	staʸt
@@ -5904,15 +6336,18 @@ stem	stem
 step	step
 stereotype	steréótíp
 stereotypical	steréótipikal
+stern	stern
 stick	stik
 sticky	stiké
 stiff	stif
 stiffen	stifen
+stigand	stígand
 still	stil
 stimulant	stilmúlant
 stimulate	stimúlát
 stimulation	stimúlásion
 stimulus	stimúlus
+stingy	stinjé
 stink	stiŋk
 stir	stir
 stitch	stic
@@ -5922,6 +6357,8 @@ stolen	stoʷlen
 stomach	stumak
 stone	stoʷn
 stood	stqd
+stool	stq̇l
+stoop	stq̇p
 stop	stop
 storage	stoʷraj
 store	stoʷr
@@ -5966,6 +6403,7 @@ stung	stuŋ
 stunk	stuŋk
 stupid	stúpid
 style	stiʸl
+subdue	subdú
 subject	subjekt
 subjective	subjektiv
 subjectivity	subjektivité
@@ -6000,6 +6438,7 @@ such	suc
 suck	suk
 sudden	suden
 sue	suʷ
+suet	súet
 suffer	sufer
 suffice	sufís
 sufficient	sufisient
@@ -6012,6 +6451,8 @@ suicidal	súisídal
 suicide	súisíd
 suit	suʷt
 suite	sweʸt
+sulk	sulk
+sulky	sulké
 sum	sum
 summarize	sumaríz
 summary	sumaré
@@ -6030,6 +6471,7 @@ supermarket	súpermarket
 supervise	súpervíz
 supervision	súpervizion
 supervisor	súpervízor
+supple	supel
 supplement	suplement
 supplemental	suplemental
 supplementary	suplementaré
@@ -6041,7 +6483,7 @@ supposition	supozision
 suppress	supres
 suppression	supresion
 supremacy	súpremasé
-supreme	súpréme
+supreme	súprém
 sure	xuʷr
 surface	surfas
 surge	surj
@@ -6069,6 +6511,7 @@ swallow	swoló
 swam	swam
 swear	swaʸr
 sweat	swet
+sweaty	sweté
 sweep	sweʸp
 sweet	sweʸt
 sweetheart	sweʸthart
@@ -6121,6 +6564,7 @@ tank	taŋk
 tap	tap
 tape	taʸp
 target	target
+tart	tart
 task	task
 taste	taʸst
 taught	tåt
@@ -6135,8 +6579,14 @@ teacup	teʸkup
 team	teʸm
 teammate	teʸmmaʸt
 teamwork	teʸmwurk
-tear	taʸr
-tear 2	teʸr
+teapot	teʸpot
+tear n	teʸr
+tear v	taʸr
+teared	teʸrd
+tearful	teʸrfql
+tearing	teʸriŋ
+teary	teʸré
+tease	teʸz
 technical	teknikal
 technicality	teknikalité
 technician	teknision
@@ -6147,8 +6597,11 @@ teenage	teʸnaʸj
 teeth	teʸþ
 telegram	telegram
 telephone	telefón
+telescope	teleskóp
+telesopic	teleskopik
 television	televizion
 tell	tel
+temper	temper
 temperate	temperat
 temperature	temperatúr
 temple	tempel
@@ -6173,6 +6626,7 @@ terminator	terminátor
 terrace	teras
 terrain	terán
 terrible	teribel
+terrier	terier
 terrific	terifik
 terrify	terifí
 territory	teritoré
@@ -6180,6 +6634,8 @@ terror	teror
 terrorism	terorizem
 terrorist	terorist
 test	test
+testicle	testikel
+testicular	testikúlar
 testify	testifí
 testimony	testimóné
 text	tekst
@@ -6188,6 +6644,8 @@ texture	tekstúr
 than	ðan
 thank	þaŋk
 that	ðat
+thatch	þac
+that'll	ðatl
 the	ðe
 theater	þéater
 theatre	þéater
@@ -6225,6 +6683,7 @@ they've	ðaʸv
 thick	þik
 thief	þeʸf
 thieve	þeʸv
+thimble	þimbel
 thin	þin
 thing	þiŋ
 think	þiŋk
@@ -6235,6 +6694,7 @@ thirteen	þirteʸn
 thirteenth	þirteʸnþ
 thirty	þirté
 this	ðis
+thistle	þisel
 thorough	þuró
 those	ðoʷz
 though	ðoʷ
@@ -6249,13 +6709,16 @@ threshold	þrexhoʷld
 threw	þruʷ
 thrive	þriʸv
 throat	þroʷt
+throne	þroʷn
 through	þrq̇
 throughout	þrq̇qʷt
 throw	þroʷ
 thrown	þroʷn
 thrust	þrust
 thumb	þum
+thump	þump
 thunder	þunder
+thunderstorm	þunderstomr
 thursday	þurzdaʸ
 thus	ðus
 ticket	tiket
@@ -6265,19 +6728,27 @@ tie	tiʸ
 tight	tiʸt
 tighten	tiʸten
 till	til
+tillie	tilé
 timber	timber
 time	tiʸm
+timid	timid
 tin	tin
+tinkle	tiŋkel
 tiny	tiʸné
 tip	tip
+tiptoe	tiptoʷ
 tire	tiʸr
+'tis	tiz
 tissue	tisú
+tit	tit
 title	títel
+titter	titer
 to	tq̇
 toast	toʷst
 tobacco	tobakó
 today	tq̇daʸ
 toe	toʷ
+toffee	tofé
 together	tq̇geðer
 toilet	toʸlet
 told	toʷld
@@ -6306,6 +6777,7 @@ topical	topikal
 tore	toʷr
 torn	toʷrn
 torpedo	torpédó
+tortoise	tortos
 torture	tortúr
 toss	tos
 total	tótal
@@ -6342,6 +6814,7 @@ trailer	traʸler
 train	traʸn
 trainer	traʸner
 trait	traʸt
+trample	trampel
 transact	tranzakt
 transaction	tranzaksion
 transactional	tranzaksional
@@ -6366,19 +6839,24 @@ transparent	tranzparent
 transport	transport
 transportation	tranzportásion
 trap	trap
+trash	trax
 trauma	tråma
 traumatic	tråmatik
 traumatise	tråmatíz
 traumatize	tråmatíz
 travel	travel
 tray	traʸ
+treacle	trékel
+tread	tred
 treasure	trezúr
 treasury	trezúré
 treat	treʸt
 treatment	treʸtment
 treaty	trété
 tree	treʸ
+tremble	trembel
 tremendous	tremendos
+tremulous	tremúlos
 trend	trend
 trendy	trendé
 trial	tríal
@@ -6391,9 +6869,11 @@ tribune	tribún
 tributary	tribútaré
 tribute	tribút
 trick	trik
+trickle	trikel
 tricky	triké
 trigger	triger
 trillion	trilion
+trim	trim
 trio	trió
 trip	trip
 triumph	tríumf
@@ -6402,10 +6882,12 @@ troop	trq̇p
 trophy	trófé
 tropic	tropik
 tropical	tropikal
+trot	trot
 trouble	trubel
 trouser	trqʷzer
 truck	truk
 true	truʷ
+trumpet	trumpet
 trust	trust
 trustee	trusté
 trustworthy	trustwurðé
@@ -6414,31 +6896,46 @@ truthful	truʷþfql
 try	triʸ
 tsunami	sq̇namé
 tube	tuʷb
+tuck	tuk
 tuesday	túzdaʸ
 tuition	túision
+tulip	túlip
+tumble	tumbel
 tune	tuʷn
 tunnel	tunel
 turbine	turbín
+turd	turd
+tureen	túrén
+turkey	turké
 turn	turn
 turnout	turnqʷt
 turnover	turnóver
+turtle	turtel
+tut	tut
+twat	twat
 twelfth	twelfþ
 twelve	twelv
 twentieth	twentéeþ
 twenty	twenté
 twice	twiʸs
 twin	twin
+twinkle	twiŋkel
 twist	twist
 two	tq̇
 type	tiʸp
 typical	tipikal
 typist	tiʸpist
 tyre	tiʸr
+ugh	uh
+uglification	uglifikásion
+uglify	uglifí
 ugly	uglé
+uh	u
 ultimate	ultimat
 umbrella	umbrela
 uncle	uŋkel
 under	under
+underneath	underneʸþ
 understand	understand
 understood	understqd
 uniform	úniform
@@ -6476,12 +6973,16 @@ urgency	urjensé
 urgent	urjent
 us	us
 usage	uʷsaj
-use	uʷs
+use n	uʷs
 use v	uʷz
+used	uʷzd
 useful	uʷsfql
 useless	uʷsles
 user	uʷzer
+using	uʷziŋ
 usual	úsúal
+usurp	úzurp
+usurpation	úzurpásion
 utilise	útilíz
 utilitarian	útilitarian
 utility	útilité
@@ -6492,6 +6993,8 @@ vacant	vákant
 vacate	vákát
 vacation	vákásion
 vacuum	vakúm
+vagina	vajína
+vaginal	vajinal
 vague	vaʸg
 valency	válensé
 valid	valid
@@ -6525,6 +7028,7 @@ vegetative	vejetátiv
 vehicle	véhikel
 vein	vaʸn
 velocity	velosité
+velvet	velvet
 venture	ventúr
 venue	venú
 verbal	verbal
@@ -6560,6 +7064,7 @@ view	vuʷ
 viewer	vuʷer
 viewpoint	vuʷpoʸnt
 village	vilaj
+vinegar	vinegar
 violate	víolát
 violation	víolásion
 violator	víolátor
@@ -6597,13 +7102,18 @@ volunteer	voluntér
 vortex	vorteks
 vote	voʷt
 vow	vqʷ
+vulgar	vulgar
 vulnerability	vulnerabilité
 vulnerable	vulnerabel
+wag	wag
 wage	waʸj
+waist	waʸst
+waistcoat	waʸstkoʷt
 wait	waʸt
 wake	waʸk
 walk	wåk
 wall	wål
+walrus	wolrus
 wander	wonder
 want	wont
 war	wor
@@ -6637,6 +7147,7 @@ wealthy	welþé
 weapon	wepon
 weaponry	weponré
 wear	waʸr
+weary	weʸré
 weather	weðer
 weatherman	weðerman
 weave	weʸv
@@ -6683,6 +7194,7 @@ whereas	hwaʸraz
 whereby	hwaʸrbiʸ
 wherefore	hwaʸrfoʷr
 wherein	hwaʸrin
+whereupon	hwaʸrupon
 wherever	hwaʸrever
 whether	hweðer
 which	hwic
@@ -6690,6 +7202,7 @@ whichever	hwicever
 while	hwiʸl
 whilst	hwiʸlst
 whip	hwip
+whisker	hwisker
 whiskey	hwiské
 whisky	hwiské
 whisper	hwisper
@@ -6714,19 +7227,24 @@ widespread	wiʸdspred
 widow	widó
 width	widþ
 wife	wiʸf
+wig	wig
 wild	wiʸld
 wildlife	wiʸldliʸf
 will	wil
+william	wiliam
 win	win
-wind	wind
-wind 2	wiʸnd
+wind n	wind
+wind v	wiʸnd
+winded	winded
+winding	wiʸndiŋ
 window	windó
-windy	windé
-windy 2	wiʸndé
+windy nadj	windé
+windy vadj	wiʸndé
 wine	wiʸn
 winemake	wiʸnmaʸk
 winery	wiʸneré
 wing	wiŋ
+wink	wiŋk
 winter	winter
 wipe	wiʸp
 wire	wiʸr
@@ -6750,6 +7268,7 @@ women	wimen
 won	wun
 wonder	wunder
 wonderful	wunderfql
+wonderland	wunderland
 won't	woʷnt
 wood	wqd
 wooden	wqden
@@ -6785,14 +7304,20 @@ worthwhile	wurþhwiʸl
 worthy	wurðé
 would	wqd
 wouldn't	wqdnt
-wound	wq̇nd
-wound (past)	wqʷnd
+wound n	wq̇nd
+wound v	wqʷnd
+wounded	wq̇nded
+wounds	wq̇ndz
 wow	woʷ
 wrap	rap
 wreck	rek
 wreckage	rekaj
+wretch	rec
+wretched	reced
+wriggle	rigel
 wrist	rist
 write	riʸt
+writhe	riʸð
 written	riten
 wrong	roŋ
 wrote	roʷt
@@ -6804,6 +7329,7 @@ year	yeʸr
 yearbook	yeʸrbqk
 yell	yel
 yellow	yeló
+yelp	yelp
 yes	yes
 yesterday	yesterdaʸ
 yet	yet
@@ -6822,6 +7348,7 @@ yourselves	uʷrselvz
 youth	uʷþ
 youthful	uʷþfql
 you've	uʷv
+zealand	zéland
 zebra	zebra
 zero	zéró
 zinc	ziŋk
